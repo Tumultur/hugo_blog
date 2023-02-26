@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+<title>Tumultur’s Blog</title>
 {{ partial "head" . }}
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <body>
     {{ partial "header" . }}
     <main>
         <div class="module-title all-caps">Articles</div>
-        {{ range .Pages.ByWeight.Reverse }}
+        {{ range $.Site.RegularPages.ByWeight }}
         <div class="module-box">
-            <span class="module-numbering">{{ add 1 (sub (len .Site.RegularPages) .Weight)}}</span>
+            <span class="module-numbering">{{.Weight}}</span>
             {{$cjk_spacing_fixed := .Title}}
             <!-- <a href="{{.Permalink}}" class="module-hyperlink">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</a> -->
             <a href="{{.Permalink}}" class="module-hyperlink">{{$cjk_spacing_fixed}}</a>
             <span class="module-description">{{.Params.description}}</span>
+        </div>
+        {{end}}
+        <div class="module-title all-caps">Useful Links</div>
+        {{ range sort .Site.Data.links "order" "asc" }}
+        <div class="module-box">
+            <span class="module-numbering text-figures">
+                {{.order}}
+            </span>
+            <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
+            <span class="module-description">{{.description}}</span>
         </div>
         {{end}}
     </main>
