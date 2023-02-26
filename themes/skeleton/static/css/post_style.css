@@ -78,9 +78,9 @@ a{
   text-decoration: none;
   color: #606060;
 }
-a:not(.header-title):hover{
+/* a:not(.header-title):hover{
   text-decoration: underline;
-}
+} */
 
 h1{
   font-size: 20px;
