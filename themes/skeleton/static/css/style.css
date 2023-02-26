@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "Chinese Quotes";
+  src: local('PingFang SC'), local("Microsoft Yahei");
+  unicode-range: U+2018-2019, U+201C-201D;
+}
+
+.text-figures {
+  font-variant-numeric: oldstyle-nums;
+}
+
+.small-caps {
+  font-variant-caps: all-small-caps;
+  letter-spacing: .015em;
+}
+
+.all-caps {
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+  font-family: 'Chinese Quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+header{
+  width: 600px;
+  min-width: 60%;
+  max-width: 80%;
+  margin: auto;
+  padding-top: 15px;
+}
+.title-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-divider{
+  height:1.2px;
+  border:none;
+  background:black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.header-title{
+  font-family: 'Segoe UI';
+}
+.header-title:hover{
+  text-decoration: none;
+}
+.header-link{
+  float: right;
+}
+.header-link:hover{
+  text-decoration: none;
+}
+
+main{
+    width: 600px;
+    min-width: 60%;
+    max-width: 80%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+/* module */
+/* .module{
+  margin-bottom: 6px;
+} */
+.module-title{
+  /* font-style: italic; */
+  margin-bottom: 6px;
+}
+/* .module-box:nth-child(even){
+  background-color: #f3f3f3;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+.module-box:last-child{
+  border-bottom: 1px solid #cccccc;
+} */
+.module-box{
+  /* padding-top: 6px; */
+  padding-bottom: 12px;
+}
+.module-numbering{
+  position: absolute;
+  width: 20px;
+  margin-left: -24px;
+}
+.module-hyperlink{
+  display: inline-block;
+  width: 100%;
+}
+.module-description{
+  font-size: 18px;
+  color: #888888;
+}
+  
