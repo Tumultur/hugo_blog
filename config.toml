@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hugo.mergo.online/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tumultur’s Blog'
 theme = 'skeleton'
 
 
