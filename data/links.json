@@ -3,18 +3,24 @@
         "name": "opentype.js",
         "link": "https://opentype.js.org/index.html",
         "description": "字体元数据和字符查看器，以及更多",
-        "order": 1
+        "order": 2
     },
     "OpenCC": {
         "name": "OpenCC",
         "link": "https://opencc.byvoid.com/",
         "description": "简繁体与日文字形转换",
-        "order": 2
+        "order": 1
     },
     "react-tetris": {
         "name": "react-tetris",
         "link": "https://chvin.github.io/react-tetris/?lan=en",
         "description": "手感一级棒的俄罗斯方块",
         "order": 3
+    },
+    "trackerslist": {
+        "name": "TrackersListCollection",
+        "link": "https://trackerslist.com/",
+        "description": "热门 BitTorrent Tracker 列表",
+        "order": 4
     }
 }

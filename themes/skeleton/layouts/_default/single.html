@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/post_style.css">
+{{ if eq .Params.cjk false}}
+    <style>
+        body{
+            font-variant-numeric: oldstyle-nums;
+            font-family: 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif;
+        }
+    </style>
+{{ end }}
+</head>
+<body>
+    {{ partial "header" . }}
+    <main>
+        aaa
+        {{ if eq .Params.cjk true}}
+        <p class="post-title">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</p>
+        <p class="post-date">{{.PublishDate.Format "2006-01-02"}}</p>
+        
+        <!-- Spacing between CJK and Latin characters -->
+        {{$cjk_spacing_fixed1 := (.Content | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
+        {{$cjk_spacing_fixed2 := ($cjk_spacing_fixed1 | replaceRE "(\\p{Han}) (<a.*</a>) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
+        {{$cjk_spacing_fixed3 := ($cjk_spacing_fixed2 | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+)([。、，；”])" "$1 $2$3" | safeHTML)}}
+        {{$cjk_spacing_fixed4 := ($cjk_spacing_fixed3 | replaceRE "(\\p{Han}) (<a.*</a>)([。、，；”])" "$1 $2$3" | safeHTML)}}
+        {{$cjk_spacing_fixed5 := ($cjk_spacing_fixed4 | replaceRE "(<a.*>.*) (.*</a>)" "$1&nbsp;$2" | safeHTML)}}
+        <!-- Multiple punctuation spacing -->
+        {{$mojikumi_fixed1 := ($cjk_spacing_fixed5 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
+        {{$mojikumi_fixed2 := ($mojikumi_fixed1 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2" | safeHTML)}}
+
+        <!-- Interpunct spacing -->
+        {{$mojikumi_fixed3 := ($mojikumi_fixed2 | replaceRE "·" "<interpunct>·</interpunct>" | safeHTML)}}
+        {{$mojikumi_fixed3}}
+
+        {{ else }}
+        <p class="post-title">{{.Title}}</p>
+        <p class="post-date text-figures">{{.PublishDate.Format "2006-01-02"}}</p>
+        {{$abbr_fixed1 := (.Content | replaceRE "([A-Z]{2,})" "<abbr class=\"small-caps\">$1</abbr>" | safeHTML)}}
+        {{$abbr_fixed1}}
+        {{ end }}
+    </main>
+</body>
+</html>

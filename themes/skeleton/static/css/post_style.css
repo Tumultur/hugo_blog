@@ -10,7 +10,7 @@
 
 .small-caps {
   font-variant-caps: all-small-caps;
-  letter-spacing: .015em;
+  letter-spacing: .02em;
 }
 
 .all-caps {
@@ -33,10 +33,10 @@ body {
 
 header{
   width: 600px;
-  min-width: 60%;
+  min-width: 50%;
   max-width: 80%;
   margin: auto;
-  padding-top: 15px;
+  padding-top: 24px;
 }
 .title-wrapper{
   display: flex;
@@ -48,7 +48,7 @@ header{
   border:none;
   background:black;
   margin-top: 12px;
-  margin-bottom: 12px;
+  /* margin-bottom: 12px; */
 }
 .header-title{
   font-family: 'Segoe UI';
@@ -67,7 +67,7 @@ header{
 
 main{
     width: 600px;
-    min-width: 60%;
+    min-width: 50%;
     max-width: 80%;
     margin: auto;
     padding-bottom: 20px;
@@ -88,7 +88,7 @@ h1{
 }
 
 p{
-  text-indent: 2em;
+  text-indent: 1em;
   margin-top: 0px;
   margin-bottom: 12px;
   line-height: 1.5;
@@ -104,8 +104,14 @@ p{
   text-indent: 0;
   line-height: 1.2;
   margin: 0;
+  margin-top: 24px;
 }
 
-.mojikumi {
-  margin-right: -9px;
+interpunct {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+mojikumi {
+  margin-right: -10px;
 }
