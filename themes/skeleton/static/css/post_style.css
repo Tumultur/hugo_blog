@@ -1,86 +1,14 @@
-@font-face {
-  font-family: "Chinese Quotes";
-  src: local('PingFang SC'), local("Microsoft Yahei");
-  unicode-range: U+2018-2019, U+201C-201D;
-}
-
-.text-figures {
-  font-variant-numeric: oldstyle-nums;
-}
-
-.small-caps {
-  font-variant-caps: all-small-caps;
-  letter-spacing: .02em;
-}
-
-.all-caps {
-  text-transform: uppercase;
-  letter-spacing: .04em;
-}
-
 body {
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
-  font-family: 'Chinese Quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif;
-  font-weight: 400;
-  font-size: 20px;
   text-justify: inter-word;
   -ms-hyphens: auto;
   -webkit-hyphens: auto;
   hyphens: auto;
 }
 
-header{
-  width: 600px;
-  min-width: 50%;
-  max-width: 80%;
-  margin: auto;
-  padding-top: 24px;
-}
-.title-wrapper{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.header-divider{
-  height:1.2px;
-  border:none;
-  background:black;
-  margin-top: 12px;
-  /* margin-bottom: 12px; */
-}
-.header-title{
-  font-family: 'Segoe UI';
-  color: black;
-}
-.header-title:hover{
-  text-decoration: none;
-}
-.header-link{
-  color: black;
-  float: right;
-}
-.header-link:hover{
-  text-decoration: none;
-}
-
-main{
-    width: 600px;
-    min-width: 50%;
-    max-width: 80%;
-    margin: auto;
-    padding-bottom: 20px;
-}
-
-/* hyperlink */
 a{
   text-decoration: none;
   color: #606060;
 }
-/* a:not(.header-title):hover{
-  text-decoration: underline;
-} */
 
 h1{
   font-size: 20px;
@@ -88,23 +16,19 @@ h1{
 }
 
 p{
-  text-indent: 1em;
-  margin-top: 0px;
+  text-indent: 2em;
+  margin: 0px;
   margin-bottom: 12px;
-  line-height: 1.5;
 }
 
 .post-date{
   text-indent: 0;
-  line-height: 1.2;
   margin-bottom: 12px;
 }
 
 .post-title{
   text-indent: 0;
-  line-height: 1.2;
   margin: 0;
-  margin-top: 24px;
 }
 
 interpunct {

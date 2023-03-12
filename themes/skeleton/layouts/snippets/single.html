@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 {{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/post_style.css">
+<style>h1 {text-transform: uppercase; letter-spacing: .04em}</style>
 {{ if eq .Params.cjk false}}
     <style>
         body{
@@ -14,10 +16,6 @@
 <body>
     {{ partial "header" . }}
     <main>
-        {{ if eq .Params.cjk true}}
-        <p class="post-title">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</p>
-        <p class="post-date">{{.PublishDate.Format "2006-01-02"}}</p>
-        
         <!-- Spacing between CJK and Latin characters -->
         {{$cjk_spacing_fixed1 := (.Content | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
         {{$cjk_spacing_fixed2 := ($cjk_spacing_fixed1 | replaceRE "(\\p{Han}) (<a.*</a>) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
@@ -33,13 +31,5 @@
         <!-- Interpunct spacing -->
         {{$mojikumi_fixed3 := ($mojikumi_fixed2 | replaceRE "·" "<interpunct>·</interpunct>" | safeHTML)}}
         {{$mojikumi_fixed3}}
-
-        {{ else }}
-        <p class="post-title">{{.Title}}</p>
-        <p class="post-date text-figures">{{.PublishDate.Format "2006-01-02"}}</p>
-        {{$abbr_fixed1 := (.Content | replaceRE "([A-Z]{2,})" "<abbr class=\"small-caps\">$1</abbr>" | safeHTML)}}
-        {{$abbr_fixed1}}
-        {{ end }}
-    </main>
 </body>
 </html>

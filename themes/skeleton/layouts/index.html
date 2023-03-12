@@ -3,6 +3,7 @@
 <title>Tumultur’s Blog</title>
 {{ partial "head" . }}
 <link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/list_style.css">
 </head>
 <body>
     {{ partial "header" . }}
@@ -12,14 +13,24 @@
         <div class="module-box">
             <span class="module-numbering">{{.Weight}}</span>
             <a href="{{.Permalink}}" class="module-hyperlink">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</a>
-            <span class="module-description">{{.Params.description}}</span>
+            <div class="description-container">
+                <p class="module-description">{{.Params.description}}</p>
+            </div>
         </div>
         {{end}}
-        <div class="module-title all-caps">Useful Sites</div>
+        <div style="height: 20px;"></div>
+        <div class="module-title all-caps">Sites</div>
+        <div class="module-box">
+            <span class="module-numbering text-figures">
+                1
+            </span>
+            <a href="/snippets" class="module-hyperlink">Snippets</a>
+            <span class="module-description">个人随笔</span>
+        </div>
         {{ range sort .Site.Data.links "order" "asc" }}
         <div class="module-box">
             <span class="module-numbering text-figures">
-                {{.order}}
+                {{add .order 1}}
             </span>
             <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
             <span class="module-description">{{.description}}</span>

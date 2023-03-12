@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/post_style.css">
 {{ if eq .Params.cjk false}}
     <style>
@@ -24,8 +25,10 @@
         {{$cjk_spacing_fixed3 := ($cjk_spacing_fixed2 | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+)([。、，；”])" "$1 $2$3" | safeHTML)}}
         {{$cjk_spacing_fixed4 := ($cjk_spacing_fixed3 | replaceRE "(\\p{Han}) (<a.*</a>)([。、，；”])" "$1 $2$3" | safeHTML)}}
         {{$cjk_spacing_fixed5 := ($cjk_spacing_fixed4 | replaceRE "(<a.*>.*) (.*</a>)" "$1&nbsp;$2" | safeHTML)}}
+        {{$cjk_spacing_fixed_new1 := (.Content | replaceRE "(\\p{Han}) " "$1 " | safeHTML)}}
+        {{$cjk_spacing_fixed_new2 := ($cjk_spacing_fixed_new1 | replaceRE " (\\p{Han})" " $1" | safeHTML)}}
         <!-- Multiple punctuation spacing -->
-        {{$mojikumi_fixed1 := ($cjk_spacing_fixed5 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
+        {{$mojikumi_fixed1 := ($cjk_spacing_fixed_new2 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
         {{$mojikumi_fixed2 := ($mojikumi_fixed1 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2" | safeHTML)}}
 
         <!-- Interpunct spacing -->

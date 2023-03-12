@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Chinese Quotes";
+  font-family: "Fullwidth quotes";
   src: local('PingFang SC'), local("Microsoft Yahei");
   unicode-range: U+2018-2019, U+201C-201D;
 }
@@ -21,8 +21,8 @@
 body {
   margin: 0;
   padding: 0;
-  line-height: 1.2;
-  font-family: 'Chinese Quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif;
+  line-height: 1.5;
+  font-family: 'Fullwidth quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif;
   font-weight: 400;
   font-size: 20px;
 }
@@ -32,7 +32,7 @@ header{
   min-width: 50%;
   max-width: 80%;
   margin: auto;
-  padding-top: 24px;
+  padding-top: 20px;
 }
 .title-wrapper{
   display: flex;
@@ -40,73 +40,30 @@ header{
   justify-content: space-between;
 }
 .header-divider{
-  height:1.2px;
+  height:1px;
   border:none;
   background:black;
-  margin-top: 12px;
-  /* margin-bottom: 12px; */
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 .header-title{
   font-family: 'Segoe UI';
+  color: black;
 }
 .header-title:hover{
   text-decoration: none;
 }
 .header-link{
   float: right;
+  color: black;
 }
 .header-link:hover{
   text-decoration: none;
 }
 
 main{
-    width: 600px;
-    min-width: 50%;
-    max-width: 80%;
-    margin: auto;
-    padding-bottom: 20px;
+  width: 600px;
+  min-width: 50%;
+  max-width: 80%;
+  margin: auto;
 }
-
-a{
-  text-decoration: none;
-  color: black;
-}
-/* a:hover{
-  text-decoration: underline;
-} */
-
-/* module */
-/* .module{
-  margin-bottom: 6px;
-} */
-.module-title{
-  /* font-style: italic; */
-  margin-bottom: 6px;
-  margin-top: 24px;
-}
-/* .module-box:nth-child(even){
-  background-color: #f3f3f3;
-  border-top: 1px solid #cccccc;
-  border-bottom: 1px solid #cccccc;
-}
-.module-box:last-child{
-  border-bottom: 1px solid #cccccc;
-} */
-.module-box{
-  /* padding-top: 6px; */
-  margin-bottom: 6px;
-}
-.module-numbering{
-  position: absolute;
-  width: 20px;
-  margin-left: -24px;
-}
-.module-hyperlink{
-  display: inline-block;
-  width: 100%;
-}
-.module-description{
-  font-size: 18px;
-  color: #888888;
-}
-  
