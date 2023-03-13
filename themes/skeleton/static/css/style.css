@@ -30,7 +30,7 @@ body {
 
 header{
   width: 600px;
-  min-width: 50%;
+  min-width: 45%;
   max-width: 80%;
   margin: auto;
   padding-top: 20px;
@@ -48,7 +48,7 @@ header{
   margin-bottom: 20px;
 }
 .header-title{
-  font-family: 'Segoe UI';
+  font-family: system-ui;
   color: black;
 }
 .header-title:hover{
@@ -64,7 +64,8 @@ header{
 
 main{
   width: 600px;
-  min-width: 50%;
+  min-width: 45%;
   max-width: 80%;
   margin: auto;
+  padding-bottom: 20px;
 }
