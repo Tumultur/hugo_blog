@@ -33,6 +33,7 @@ body {
   /* manual font stack, somehow not compatible with iOS */
   /* font-family: 'Fullwidth quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif; */
   font-family: 'Fullwidth quotes', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
+  font-variant-numeric: lining-nums;
   font-weight: 400;
   font-size: 20px;
 }
