@@ -65,6 +65,7 @@ header{
   text-decoration: none;
 }
 .header-link{
+  font-family: 'ff-scala-sans-pro', system-ui;
   float: right;
   color: black;
 }
