@@ -4,15 +4,6 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/post_style.css">
 <style>h1 {text-transform: uppercase; letter-spacing: .04em}</style>
-{{ if eq .Params.cjk false}}
-    <style>
-        body{
-            font-variant-numeric: oldstyle-nums;
-            /* font-family: 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif; */
-            font-family: system-ui;
-        }
-    </style>
-{{ end }}
 </head>
 <body>
     {{ partial "header" . }}
@@ -31,6 +22,9 @@
 
         <!-- Interpunct spacing -->
         {{$mojikumi_fixed3 := ($mojikumi_fixed2 | replaceRE "·" "<interpunct>·</interpunct>" | safeHTML)}}
+
+        <!-- Th ligature -->
+        {{$ligature_fixed := ($mojikumi_fixed2 | replaceRE "Th" "<liga>Th</liga>" | safeHTML)}}
         {{$mojikumi_fixed3}}
 </body>
 </html>

@@ -1,13 +1,21 @@
+/* self-host instead of using Adobe Fonts or Google Fonts, otherwise @font-face won't work */
 @font-face {
   font-family: "Fullwidth quotes";
-  src: local('PingFang SC'), local("Microsoft Yahei");
+  /* ditch linux because not important */
+  src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
   unicode-range: U+2018-2019, U+201C-201D;
+}
+
+@font-face {
+  font-family: "Source Han Sans SC";
+  src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
 }
 
 .text-figures {
   font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
+/* beware of mechanically scaled small caps */
 .small-caps {
   font-variant-caps: all-small-caps;
   letter-spacing: .02em;
@@ -22,8 +30,9 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
+  /* manual font stack, somehow not compatible with iOS */
   /* font-family: 'Fullwidth quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif; */
-  font-family: 'Fullwidth quotes', system-ui;
+  font-family: 'Fullwidth quotes', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
   font-weight: 400;
   font-size: 20px;
 }
@@ -45,10 +54,10 @@ header{
   border:none;
   background:black;
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .header-title{
-  font-family: system-ui;
+  font-family: 'ff-scala-sans-pro', system-ui;
   color: black;
 }
 .header-title:hover{
