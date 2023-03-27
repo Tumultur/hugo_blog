@@ -1,14 +1,19 @@
 /* self-host instead of using Adobe Fonts or Google Fonts, otherwise @font-face won't work */
 @font-face {
-  font-family: "Fullwidth quotes";
+  font-family: "Punctuations";
   /* ditch linux because not important */
   src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
-  unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B;
+  unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B, u+002F, u+005C;
 }
 
 @font-face {
   font-family: "Source Han Sans SC";
   src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
 }
 
 .text-figures {
@@ -32,7 +37,7 @@ body {
   line-height: 1.5;
   /* manual font stack, somehow not compatible with iOS */
   /* font-family: 'Fullwidth quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif; */
-  font-family: 'Fullwidth quotes', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
+  font-family: 'Punctuations', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
   font-variant-numeric: lining-nums;
   font-weight: 400;
   font-size: 18px;
@@ -80,4 +85,21 @@ main{
   max-width: 80%;
   margin: auto;
   padding-bottom: 20px;
+}
+
+pre {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  /* border-left: 2px solid green; */
+  padding-left: 36px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  /* background-color: #f0f0f0; */
+}
+
+code {
+  white-space : pre-wrap;
+  font-family: 'JetBrains Mono';
+  /* font-weight: 300; */
+  font-size: 16px;
 }
