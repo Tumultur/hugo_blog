@@ -1,0 +1,3506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="360pt" viewBox="0 0 936 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-03-23T14:40:04.401948</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 936 360 
+L 936 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <!-- A -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(31.906731 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-41" d="M 141 0 
+L 797 0 
+L 1088 1081 
+L 2663 1081 
+L 2953 0 
+L 3609 0 
+L 2328 4438 
+L 1422 4438 
+L 141 0 
+z
+M 1247 1675 
+L 1847 3900 
+L 1903 3900 
+L 2503 1675 
+L 1247 1675 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-41"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- A -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(30.695481 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-41" d="M 2671 1862 
+L 2031 3997 
+L 1385 1862 
+L 2671 1862 
+z
+M 3229 0 
+L 2828 1338 
+L 1228 1338 
+L 826 0 
+L 233 0 
+L 1734 4655 
+L 2345 4655 
+L 3846 0 
+L 3229 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-41"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- B -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(102.245192 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-42" d="M 500 0 
+L 2200 0 
+C 3056 0 3544 444 3544 1219 
+C 3544 1916 3047 2319 2169 2331 
+L 2169 2369 
+C 2850 2441 3231 2772 3231 3313 
+C 3231 4031 2719 4438 1819 4438 
+L 500 4438 
+L 500 0 
+z
+M 1150 594 
+L 1150 2047 
+L 1975 2047 
+C 2556 2047 2888 1778 2888 1313 
+C 2888 856 2569 594 2019 594 
+L 1150 594 
+z
+M 1150 2641 
+L 1150 3844 
+L 1788 3844 
+C 2291 3844 2575 3631 2575 3250 
+C 2575 2859 2303 2641 1831 2641 
+L 1150 2641 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-42"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- B -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(101.033942 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-42" d="M 582 0 
+L 582 4655 
+L 2025 4655 
+Q 2752 4655 3098 4387 
+Q 3444 4119 3444 3561 
+L 3444 3299 
+Q 3444 3002 3275 2801 
+Q 3107 2601 2810 2548 
+L 2810 2380 
+Q 3188 2345 3409 2094 
+Q 3631 1844 3631 1449 
+L 3631 1187 
+Q 3631 582 3247 291 
+Q 2863 0 2066 0 
+L 582 0 
+z
+M 1164 2676 
+L 2083 2676 
+Q 2496 2676 2685 2830 
+Q 2874 2985 2874 3322 
+L 2874 3485 
+Q 2874 3823 2685 3977 
+Q 2496 4131 2083 4131 
+L 1164 4131 
+L 1164 2676 
+z
+M 1164 524 
+L 2199 524 
+Q 2642 524 2845 695 
+Q 3049 867 3049 1251 
+L 3049 1437 
+Q 3049 1821 2845 1992 
+Q 2642 2164 2199 2164 
+L 1164 2164 
+L 1164 524 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-42"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- C -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(172.583654 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-43" d="M 2338 -63 
+C 2731 -63 3113 6 3481 150 
+L 3338 700 
+C 3044 575 2750 513 2444 513 
+C 1444 513 938 1094 938 2256 
+C 938 3322 1463 3925 2269 3925 
+C 2606 3925 2909 3763 3097 3481 
+L 3559 3941 
+C 3350 4297 2875 4500 2263 4500 
+C 994 4500 269 3669 269 2225 
+C 269 700 963 -63 2338 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-43"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- C -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(171.372404 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-43" d="M 2095 -58 
+Q 1280 -58 873 358 
+Q 466 774 466 1612 
+L 466 3020 
+Q 466 3869 873 4291 
+Q 1280 4713 2100 4713 
+Q 2903 4713 3290 4337 
+Q 3677 3962 3724 3136 
+L 3142 3078 
+Q 3084 3706 2860 3947 
+Q 2636 4189 2095 4189 
+Q 1519 4189 1283 3924 
+Q 1047 3660 1047 3020 
+L 1047 1612 
+Q 1047 983 1283 724 
+Q 1519 465 2095 465 
+Q 2636 465 2860 701 
+Q 3084 937 3142 1553 
+L 3724 1495 
+Q 3677 681 3290 311 
+Q 2903 -58 2095 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-43"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- D -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(242.922115 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-44" d="M 438 0 
+L 1513 0 
+C 2869 0 3544 716 3544 2156 
+C 3544 3684 2869 4438 1513 4438 
+L 438 4438 
+L 438 0 
+z
+M 1088 594 
+L 1088 3844 
+L 1513 3844 
+C 2425 3844 2888 3284 2888 2156 
+C 2888 1116 2425 594 1513 594 
+L 1088 594 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-44"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- D -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(241.710865 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-44" d="M 582 0 
+L 582 4655 
+L 1868 4655 
+Q 2682 4655 3144 4192 
+Q 3607 3729 3607 2961 
+L 3607 1670 
+Q 3607 908 3141 454 
+Q 2676 0 1862 0 
+L 582 0 
+z
+M 1164 524 
+L 1862 524 
+Q 2450 524 2738 841 
+Q 3026 1158 3026 1670 
+L 3026 2961 
+Q 3026 3468 2738 3799 
+Q 2450 4131 1862 4131 
+L 1164 4131 
+L 1164 524 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-44"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- E -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(313.260577 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-45" d="M 500 0 
+L 3438 0 
+L 3438 594 
+L 1150 594 
+L 1150 1925 
+L 2875 1925 
+L 2875 2519 
+L 1150 2519 
+L 1150 3844 
+L 3438 3844 
+L 3438 4438 
+L 500 4438 
+L 500 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-45"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- E -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(312.049327 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-45" d="M 582 0 
+L 582 4655 
+L 3607 4655 
+L 3607 4131 
+L 1164 4131 
+L 1164 2793 
+L 3316 2793 
+L 3316 2269 
+L 1164 2269 
+L 1164 524 
+L 3607 524 
+L 3607 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-45"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- F -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(383.599038 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-46" d="M 563 0 
+L 1213 0 
+L 1213 1738 
+L 2938 1738 
+L 2938 2331 
+L 1213 2331 
+L 1213 3844 
+L 3500 3844 
+L 3500 4438 
+L 563 4438 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-46"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- F -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(382.387788 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-46" d="M 582 0 
+L 582 4655 
+L 3607 4655 
+L 3607 4131 
+L 1164 4131 
+L 1164 2327 
+L 3200 2327 
+L 3200 1804 
+L 1164 1804 
+L 1164 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-46"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- G -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(453.9375 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-47" d="M 2194 -63 
+C 2756 -63 3231 69 3406 125 
+L 3406 2219 
+L 1906 2219 
+L 1906 1625 
+L 2788 1625 
+L 2788 569 
+C 2638 538 2466 513 2269 513 
+C 1344 513 875 1094 875 2256 
+C 875 3319 1366 3925 2206 3925 
+C 2538 3925 2841 3763 3034 3481 
+L 3500 3944 
+C 3278 4297 2791 4500 2169 4500 
+C 925 4500 206 3669 206 2225 
+C 206 700 869 -63 2194 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-47"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- G -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(452.72625 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-47" d="M 2153 -58 
+Q 1338 -58 902 375 
+Q 466 809 466 1612 
+L 466 3020 
+Q 466 3834 890 4273 
+Q 1315 4713 2100 4713 
+Q 2816 4713 3191 4352 
+Q 3567 3991 3607 3252 
+L 3026 3194 
+Q 2979 3735 2763 3962 
+Q 2548 4189 2095 4189 
+Q 1530 4189 1288 3918 
+Q 1047 3648 1047 3020 
+L 1047 1612 
+Q 1047 989 1303 727 
+Q 1559 465 2153 465 
+Q 2688 465 2915 765 
+Q 3142 1065 3142 1775 
+L 2036 1775 
+L 2036 2298 
+L 3724 2298 
+L 3724 1670 
+Q 3724 838 3316 390 
+Q 2909 -58 2153 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-47"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- H -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(524.275962 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-48" d="M 2663 0 
+L 3313 0 
+L 3313 4438 
+L 2663 4438 
+L 2663 2506 
+L 1088 2506 
+L 1088 4438 
+L 438 4438 
+L 438 0 
+L 1088 0 
+L 1088 1913 
+L 2663 1913 
+L 2663 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-48"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- H -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(523.064712 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-48" d="M 582 0 
+L 582 4655 
+L 1164 4655 
+L 1164 2793 
+L 2909 2793 
+L 2909 4655 
+L 3491 4655 
+L 3491 0 
+L 2909 0 
+L 2909 2269 
+L 1164 2269 
+L 1164 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-48"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- I -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(594.614423 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-49" d="M 525 0 
+L 3225 0 
+L 3225 594 
+L 2197 594 
+L 2197 3844 
+L 3225 3844 
+L 3225 4438 
+L 525 4438 
+L 525 3844 
+L 1547 3844 
+L 1547 594 
+L 525 594 
+L 525 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-49"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- I -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(593.403173 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-49" d="M 582 0 
+L 582 524 
+L 1746 524 
+L 1746 4131 
+L 582 4131 
+L 582 4655 
+L 3491 4655 
+L 3491 4131 
+L 2327 4131 
+L 2327 524 
+L 3491 524 
+L 3491 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-49"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- J -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(664.952885 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4a" d="M 1794 -63 
+C 2750 -63 3319 503 3319 1488 
+L 3319 4438 
+L 1531 4438 
+L 1531 3844 
+L 2669 3844 
+L 2669 1488 
+C 2669 856 2359 500 1809 500 
+C 1241 500 919 863 919 1488 
+L 269 1488 
+C 269 506 819 -63 1794 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4a"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- J -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(663.741635 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4a" d="M 1914 -58 
+Q 1152 -58 771 320 
+Q 390 698 349 1495 
+L 931 1559 
+Q 972 908 1175 686 
+Q 1379 465 1920 465 
+Q 2420 465 2664 724 
+Q 2909 983 2909 1507 
+L 2909 4131 
+L 1746 4131 
+L 1746 4655 
+L 3491 4655 
+L 3491 1513 
+Q 3491 751 3086 346 
+Q 2682 -58 1914 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4a"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- K -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(735.291346 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4b" d="M 469 0 
+L 1119 0 
+L 1119 1425 
+C 1444 1456 1734 1550 1997 1691 
+L 2875 0 
+L 3631 0 
+L 2525 2081 
+C 3103 2653 3419 3522 3419 4438 
+L 2775 4438 
+C 2775 3281 2259 2159 1119 2041 
+L 1119 4438 
+L 469 4438 
+L 469 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4b"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- K -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(734.080096 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4b" d="M 1164 2211 
+L 1164 0 
+L 582 0 
+L 582 4655 
+L 1164 4655 
+L 1164 2735 
+L 1362 2735 
+L 3159 4655 
+L 3834 4655 
+L 1839 2513 
+L 3817 0 
+L 3119 0 
+L 1379 2211 
+L 1164 2211 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4b"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- L -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(805.629808 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4c" d="M 500 0 
+L 3438 0 
+L 3438 594 
+L 1150 594 
+L 1150 4438 
+L 500 4438 
+L 500 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4c"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- L -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(804.418558 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4c" d="M 873 0 
+L 873 4655 
+L 1455 4655 
+L 1455 524 
+L 3491 524 
+L 3491 0 
+L 873 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4c"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- M -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(875.968269 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4d" d="M 400 0 
+L 1025 0 
+L 1025 3650 
+L 1106 3650 
+L 1588 1813 
+L 2163 1813 
+L 2644 3650 
+L 2725 3650 
+L 2725 0 
+L 3350 0 
+L 3350 4438 
+L 2381 4438 
+L 1900 2531 
+L 1850 2531 
+L 1369 4438 
+L 400 4438 
+L 400 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4d"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- M -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(874.757019 51.192) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4d" d="M 1757 1164 
+L 931 3718 
+L 931 0 
+L 407 0 
+L 407 4655 
+L 1193 4655 
+L 2054 1856 
+L 2909 4655 
+L 3666 4655 
+L 3666 0 
+L 3142 0 
+L 3142 3724 
+L 2316 1164 
+L 1757 1164 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4d"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- N -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(31.906731 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4e" d="M 2450 0 
+L 3288 0 
+L 3288 4438 
+L 2638 4438 
+L 2638 1063 
+L 2575 1063 
+L 1300 4438 
+L 463 4438 
+L 463 0 
+L 1113 0 
+L 1113 3375 
+L 1175 3375 
+L 2450 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4e"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- N -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(30.695481 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4e" d="M 2659 0 
+L 1106 3921 
+L 1106 0 
+L 582 0 
+L 582 4655 
+L 1379 4655 
+L 2967 646 
+L 2967 4655 
+L 3491 4655 
+L 3491 0 
+L 2659 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4e"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- O -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(102.245192 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-4f" d="M 1875 -63 
+C 2963 -63 3513 681 3513 2188 
+C 3513 3731 2963 4500 1875 4500 
+C 788 4500 238 3731 238 2188 
+C 238 681 788 -63 1875 -63 
+z
+M 1875 513 
+C 1231 513 906 1069 906 2188 
+C 906 3350 1231 3925 1875 3925 
+C 2519 3925 2844 3350 2844 2188 
+C 2844 1069 2519 513 1875 513 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-4f"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- O -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(101.033942 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-4f" d="M 2036 -58 
+Q 1268 -58 867 369 
+Q 466 797 466 1612 
+L 466 3020 
+Q 466 3846 870 4279 
+Q 1274 4713 2042 4713 
+Q 2804 4713 3205 4279 
+Q 3607 3846 3607 3020 
+L 3607 1612 
+Q 3607 797 3205 369 
+Q 2804 -58 2036 -58 
+z
+M 2036 465 
+Q 2572 465 2799 727 
+Q 3026 989 3026 1612 
+L 3026 3020 
+Q 3026 3654 2799 3921 
+Q 2572 4189 2036 4189 
+Q 1501 4189 1274 3921 
+Q 1047 3654 1047 3020 
+L 1047 1612 
+Q 1047 989 1274 727 
+Q 1501 465 2036 465 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-4f"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- P -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(172.583654 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-50" d="M 500 0 
+L 1150 0 
+L 1150 1375 
+L 1806 1375 
+C 2919 1375 3500 1922 3500 2969 
+C 3500 3934 2919 4438 1806 4438 
+L 500 4438 
+L 500 0 
+z
+M 1150 1969 
+L 1150 3844 
+L 1806 3844 
+C 2488 3844 2844 3544 2844 2969 
+C 2844 2313 2488 1969 1806 1969 
+L 1150 1969 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-50"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- P -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(171.372404 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-50" d="M 582 0 
+L 582 4655 
+L 2217 4655 
+Q 2944 4655 3305 4349 
+Q 3666 4044 3666 3427 
+L 3666 2857 
+Q 3666 2240 3302 1934 
+Q 2938 1629 2211 1629 
+L 1164 1629 
+L 1164 0 
+L 582 0 
+z
+M 1164 2141 
+L 2211 2141 
+Q 2682 2141 2883 2307 
+Q 3084 2473 3084 2868 
+L 3084 3404 
+Q 3084 3799 2883 3965 
+Q 2682 4131 2211 4131 
+L 1164 4131 
+L 1164 2141 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-50"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- Q -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(242.922115 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-51" d="M 2906 -1438 
+L 3163 -1438 
+L 3225 -875 
+L 2906 -875 
+C 2413 -875 2169 -606 2169 -69 
+L 2169 -44 
+C 3063 84 3513 825 3513 2188 
+C 3513 3731 2963 4500 1875 4500 
+C 788 4500 238 3731 238 2188 
+C 238 841 678 103 1550 -38 
+L 1550 -63 
+C 1550 -981 2006 -1438 2906 -1438 
+z
+M 1875 513 
+C 1231 513 906 1069 906 2188 
+C 906 3350 1231 3925 1875 3925 
+C 2519 3925 2844 3350 2844 2188 
+C 2844 1069 2519 513 1875 513 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-51"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- Q -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(241.710865 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-51" d="M 3782 -1111 
+Q 2921 -1297 2458 -1026 
+Q 1996 -756 1978 -58 
+Q 1234 -41 850 384 
+Q 466 809 466 1612 
+L 466 3020 
+Q 466 3852 864 4282 
+Q 1263 4713 2042 4713 
+Q 2816 4713 3211 4282 
+Q 3607 3852 3607 3020 
+L 3607 1612 
+Q 3607 943 3342 535 
+Q 3078 128 2560 0 
+Q 2572 -413 2845 -555 
+Q 3119 -698 3695 -588 
+L 3782 -1111 
+z
+M 2036 524 
+Q 2572 524 2799 774 
+Q 3026 1024 3026 1612 
+L 3026 3020 
+Q 3026 3619 2799 3875 
+Q 2572 4131 2036 4131 
+Q 1501 4131 1274 3875 
+Q 1047 3619 1047 3020 
+L 1047 1612 
+Q 1047 1024 1274 774 
+Q 1501 524 2036 524 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-51"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- R -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(313.260577 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-52" d="M 438 0 
+L 1088 0 
+L 1088 1688 
+L 1963 1688 
+C 1981 1688 1997 1688 2016 1688 
+L 2819 0 
+L 3569 0 
+L 2653 1809 
+C 3141 2013 3406 2456 3406 3094 
+C 3406 3950 2881 4438 1963 4438 
+L 438 4438 
+L 438 0 
+z
+M 1088 2281 
+L 1088 3844 
+L 1963 3844 
+C 2459 3844 2750 3550 2750 3031 
+C 2750 2556 2459 2281 1963 2281 
+L 1088 2281 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-52"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <!-- R -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(312.049327 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-52" d="M 1164 2316 
+L 2327 2316 
+Q 2799 2316 2999 2487 
+Q 3200 2659 3200 3066 
+L 3200 3427 
+Q 3200 3811 2999 3971 
+Q 2799 4131 2327 4131 
+L 1164 4131 
+L 1164 2316 
+z
+M 1164 0 
+L 582 0 
+L 582 4655 
+L 2333 4655 
+Q 3060 4655 3421 4349 
+Q 3782 4044 3782 3427 
+L 3782 3066 
+Q 3782 2508 3500 2193 
+Q 3218 1879 2642 1821 
+L 3834 0 
+L 3171 0 
+L 1990 1804 
+L 1164 1804 
+L 1164 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-52"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <!-- S -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(383.599038 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-53" d="M 1722 -63 
+C 2784 -63 3303 341 3303 1144 
+C 3303 1750 2953 2103 2297 2413 
+L 1647 2719 
+C 1347 2859 1191 3025 1191 3313 
+C 1191 3716 1438 3925 1866 3925 
+C 2209 3925 2509 3797 2878 3497 
+L 3316 3941 
+C 2891 4334 2459 4500 1863 4500 
+C 1009 4500 522 4056 522 3281 
+C 522 2706 853 2338 1459 2063 
+L 2228 1713 
+C 2491 1594 2634 1406 2634 1131 
+C 2634 716 2353 513 1772 513 
+C 1366 513 941 616 484 813 
+L 403 181 
+C 778 19 1216 -63 1722 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-53"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- S -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(382.387788 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-53" d="M 2112 -35 
+Q 1588 -35 1134 134 
+Q 681 303 320 751 
+L 739 1146 
+Q 983 815 1323 652 
+Q 1664 489 2130 489 
+Q 2560 489 2825 689 
+Q 3090 890 3090 1233 
+Q 3090 1565 2863 1742 
+Q 2636 1920 1967 2118 
+Q 1117 2362 808 2647 
+Q 500 2932 500 3456 
+Q 500 4061 904 4369 
+Q 1309 4678 1885 4678 
+Q 2374 4678 2813 4506 
+Q 3252 4335 3590 3898 
+L 3188 3497 
+Q 2956 3828 2607 3991 
+Q 2258 4154 1897 4154 
+Q 1530 4154 1309 4005 
+Q 1088 3857 1088 3508 
+Q 1088 3200 1329 3022 
+Q 1571 2845 2281 2641 
+Q 3084 2409 3377 2132 
+Q 3671 1856 3671 1332 
+Q 3671 663 3194 314 
+Q 2717 -35 2112 -35 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-53"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- T -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(453.9375 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-54" d="M 1550 0 
+L 2200 0 
+L 2200 3844 
+L 3500 3844 
+L 3500 4438 
+L 250 4438 
+L 250 3844 
+L 1550 3844 
+L 1550 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-54"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- T -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(452.72625 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-54" d="M 1746 0 
+L 1746 4131 
+L 291 4131 
+L 291 4655 
+L 3782 4655 
+L 3782 4131 
+L 2327 4131 
+L 2327 0 
+L 1746 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-54"/>
+    </g>
+   </g>
+   <g id="text_41">
+    <!-- U -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(524.275962 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-55" d="M 1863 -63 
+C 2813 -63 3313 431 3313 1425 
+L 3313 4438 
+L 2663 4438 
+L 2663 1425 
+C 2663 831 2397 531 1875 531 
+C 1331 531 1088 831 1088 1425 
+L 1088 4438 
+L 438 4438 
+L 438 1425 
+C 438 431 913 -63 1863 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-55"/>
+    </g>
+   </g>
+   <g id="text_42">
+    <!-- U -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(523.064712 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-55" d="M 2036 -58 
+Q 1309 -58 945 358 
+Q 582 774 582 1612 
+L 582 4655 
+L 1164 4655 
+L 1164 1612 
+Q 1164 989 1364 727 
+Q 1565 465 2036 465 
+Q 2508 465 2708 727 
+Q 2909 989 2909 1612 
+L 2909 4655 
+L 3491 4655 
+L 3491 1612 
+Q 3491 774 3127 358 
+Q 2764 -58 2036 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-55"/>
+    </g>
+   </g>
+   <g id="text_43">
+    <!-- V -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(594.614423 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-56" d="M 1391 0 
+L 2359 0 
+L 3609 4438 
+L 2941 4438 
+L 1903 531 
+L 1847 531 
+L 809 4438 
+L 141 4438 
+L 1391 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-56"/>
+    </g>
+   </g>
+   <g id="text_44">
+    <!-- V -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(593.403173 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-56" d="M 2345 0 
+L 1734 0 
+L 233 4655 
+L 861 4655 
+L 2048 739 
+L 3235 4655 
+L 3846 4655 
+L 2345 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-56"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <!-- W -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(664.952885 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-57" d="M 563 0 
+L 1528 0 
+L 1856 2694 
+L 1894 2694 
+L 2222 0 
+L 3188 0 
+L 3688 4438 
+L 3031 4438 
+L 2656 500 
+L 2594 500 
+L 2191 3313 
+L 1566 3313 
+L 1156 500 
+L 1094 500 
+L 719 4438 
+L 63 4438 
+L 563 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-57"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <!-- W -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(663.741635 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-57" d="M 2723 0 
+L 2036 2775 
+L 1350 0 
+L 768 0 
+L 140 4655 
+L 716 4655 
+L 1135 855 
+L 1746 3491 
+L 2356 3491 
+L 2967 855 
+L 3386 4655 
+L 3933 4655 
+L 3305 0 
+L 2723 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-57"/>
+    </g>
+   </g>
+   <g id="text_47">
+    <!-- X -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(735.291346 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-58" d="M 2828 0 
+L 3547 0 
+L 2188 2197 
+L 3547 4438 
+L 2828 4438 
+L 1875 2738 
+L 922 4438 
+L 203 4438 
+L 1563 2197 
+L 203 0 
+L 922 0 
+L 1875 1666 
+L 2828 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-58"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <!-- X -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(734.080096 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-58" d="M 3282 0 
+L 2042 1908 
+L 797 0 
+L 116 0 
+L 1740 2374 
+L 262 4655 
+L 931 4655 
+L 2106 2839 
+L 3293 4655 
+L 3968 4655 
+L 2409 2380 
+L 3951 0 
+L 3282 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-58"/>
+    </g>
+   </g>
+   <g id="text_49">
+    <!-- Y -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(805.629808 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-59" d="M 1550 0 
+L 2200 0 
+L 2200 1597 
+L 3672 4438 
+L 2984 4438 
+L 1903 2219 
+L 1847 2219 
+L 766 4438 
+L 78 4438 
+L 1550 1597 
+L 1550 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-59"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- Y -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(804.418558 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-59" d="M 2327 0 
+L 1746 0 
+L 1746 1745 
+L 82 4655 
+L 733 4655 
+L 2071 2269 
+L 3346 4655 
+L 3986 4655 
+L 2327 1745 
+L 2327 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-59"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- Z -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(875.968269 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-5a" d="M 469 0 
+L 3344 0 
+L 3344 594 
+L 1191 594 
+L 3281 3844 
+L 3281 4438 
+L 469 4438 
+L 469 3844 
+L 2544 3844 
+L 469 594 
+L 469 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-5a"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- Z -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(874.757019 117.416) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-5a" d="M 3607 0 
+L 466 0 
+L 466 524 
+L 2909 4131 
+L 466 4131 
+L 466 4655 
+L 3607 4655 
+L 3607 4131 
+L 1158 524 
+L 3607 524 
+L 3607 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-5a"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <!-- a -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(31.906731 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-61" d="M 2556 -31 
+L 3619 0 
+L 3619 531 
+L 3056 600 
+L 3056 1981 
+C 3056 2856 2531 3319 1438 3334 
+L 769 3344 
+L 706 2756 
+L 1500 2734 
+C 2113 2719 2425 2522 2425 2081 
+L 2425 1928 
+C 2244 1966 2038 1981 1800 1981 
+C 844 1981 300 1594 300 894 
+C 300 284 697 -63 1388 -63 
+C 2003 -63 2413 191 2459 700 
+L 2525 700 
+L 2556 -31 
+z
+M 2425 1419 
+L 2425 1188 
+C 2425 838 2113 469 1494 469 
+C 1131 469 925 634 925 925 
+C 925 1272 1222 1450 1788 1450 
+C 2003 1450 2213 1450 2425 1419 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-61"/>
+    </g>
+   </g>
+   <g id="text_54">
+    <!-- a -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(30.695481 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-61" d="M 1804 495 
+Q 2071 495 2344 675 
+Q 2618 855 2909 1222 
+L 2909 2950 
+Q 2746 2991 2574 3014 
+Q 2403 3037 2211 3037 
+Q 1757 3037 1466 2740 
+Q 1175 2444 1175 1856 
+L 1175 1385 
+Q 1175 937 1332 716 
+Q 1490 495 1804 495 
+z
+M 1658 -58 
+Q 1170 -58 876 311 
+Q 582 681 582 1385 
+L 582 1868 
+Q 582 2595 1053 3072 
+Q 1524 3549 2240 3549 
+Q 2572 3549 2889 3488 
+Q 3206 3427 3491 3322 
+L 3491 0 
+L 2909 0 
+L 2909 698 
+L 2735 698 
+Q 2554 337 2289 139 
+Q 2025 -58 1658 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-61"/>
+    </g>
+   </g>
+   <g id="text_55">
+    <!-- b -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(102.245192 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-62" d="M 1397 -63 
+C 2694 -63 3434 644 3434 1875 
+C 3434 2831 2928 3375 2047 3375 
+C 1534 3375 1266 3156 1234 2713 
+L 1172 2713 
+L 1172 4688 
+L 509 4688 
+L 509 0 
+C 809 -38 1097 -63 1397 -63 
+z
+M 1172 1863 
+C 1172 2500 1453 2813 2016 2813 
+C 2503 2813 2778 2475 2778 1875 
+C 2778 1000 2325 500 1528 500 
+C 1409 500 1291 500 1172 509 
+L 1172 1863 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-62"/>
+    </g>
+   </g>
+   <g id="text_56">
+    <!-- b -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(101.033942 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-62" d="M 1990 -58 
+Q 1641 -58 1268 46 
+Q 896 151 582 349 
+L 582 4655 
+L 1164 4655 
+L 1164 2909 
+L 1338 2909 
+Q 1490 3212 1757 3380 
+Q 2025 3549 2356 3549 
+Q 2898 3549 3194 3200 
+Q 3491 2851 3491 2223 
+L 3491 1274 
+Q 3491 640 3095 291 
+Q 2700 -58 1990 -58 
+z
+M 1984 454 
+Q 2455 454 2682 660 
+Q 2909 867 2909 1286 
+L 2909 2217 
+Q 2909 2612 2734 2804 
+Q 2560 2996 2211 2996 
+Q 1926 2996 1670 2845 
+Q 1414 2694 1164 2385 
+L 1164 675 
+Q 1350 564 1550 509 
+Q 1751 454 1984 454 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-62"/>
+    </g>
+   </g>
+   <g id="text_57">
+    <!-- c -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(172.583654 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-63" d="M 2194 -63 
+C 2541 -63 2913 -44 3256 31 
+L 3181 613 
+C 2888 563 2578 531 2269 531 
+C 1516 531 1094 938 1094 1694 
+C 1094 2388 1456 2781 2081 2781 
+C 2428 2781 2731 2606 2919 2303 
+L 3428 2688 
+C 3231 3125 2750 3375 2106 3375 
+C 1028 3375 425 2744 425 1663 
+C 425 550 1066 -63 2194 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-63"/>
+    </g>
+   </g>
+   <g id="text_58">
+    <!-- c -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(171.372404 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-63" d="M 2118 -58 
+Q 1356 -58 969 276 
+Q 582 611 582 1263 
+L 582 2205 
+Q 582 2868 969 3208 
+Q 1356 3549 2112 3549 
+Q 2787 3549 3150 3243 
+Q 3514 2938 3555 2351 
+L 2985 2316 
+Q 2962 2676 2746 2850 
+Q 2531 3025 2106 3025 
+Q 1629 3025 1396 2824 
+Q 1164 2624 1164 2205 
+L 1164 1263 
+Q 1164 861 1399 663 
+Q 1635 465 2118 465 
+Q 2537 465 2752 613 
+Q 2967 762 2985 1059 
+L 3555 1024 
+Q 3514 489 3153 215 
+Q 2793 -58 2118 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-63"/>
+    </g>
+   </g>
+   <g id="text_59">
+    <!-- e -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(242.922115 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-65" d="M 2163 -63 
+C 2413 -63 2738 -50 3131 25 
+L 3050 606 
+C 2775 550 2513 519 2238 519 
+C 1572 519 1153 809 1038 1363 
+L 3275 1363 
+C 3288 1494 3294 1631 3294 1788 
+C 3294 2819 2781 3375 1888 3375 
+C 938 3375 394 2744 394 1663 
+C 394 550 1031 -63 2163 -63 
+z
+M 1013 1869 
+C 1066 2459 1381 2794 1894 2794 
+C 2394 2794 2694 2463 2694 1869 
+L 1013 1869 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-65"/>
+    </g>
+   </g>
+   <g id="text_60">
+    <!-- e -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(241.710865 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-65" d="M 3503 768 
+Q 3346 332 3026 137 
+Q 2706 -58 2042 -58 
+Q 1350 -58 966 276 
+Q 582 611 582 1268 
+L 582 2205 
+Q 582 2880 986 3214 
+Q 1391 3549 2042 3549 
+Q 2700 3549 3095 3208 
+Q 3491 2868 3491 2164 
+L 3491 1629 
+L 1164 1629 
+L 1164 1263 
+Q 1164 826 1382 631 
+Q 1600 436 2036 436 
+Q 2455 436 2647 552 
+Q 2839 669 2938 931 
+L 3503 768 
+z
+M 1164 2205 
+L 1164 2065 
+L 2909 2065 
+L 2909 2153 
+Q 2909 2624 2691 2839 
+Q 2473 3055 2036 3055 
+Q 1600 3055 1382 2848 
+Q 1164 2641 1164 2205 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-65"/>
+    </g>
+   </g>
+   <g id="text_61">
+    <!-- d -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(313.260577 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-64" d="M 1622 -63 
+C 2131 -63 2459 184 2500 600 
+L 2566 600 
+L 2631 -31 
+L 3225 0 
+L 3225 4688 
+L 2563 4688 
+L 2563 2713 
+L 2500 2713 
+C 2447 3128 2119 3375 1622 3375 
+C 753 3375 300 2775 300 1625 
+C 300 516 753 -63 1622 -63 
+z
+M 2563 1544 
+C 2563 859 2291 500 1769 500 
+C 1234 500 956 884 956 1625 
+C 956 2406 1234 2813 1769 2813 
+C 2291 2813 2563 2453 2563 1769 
+L 2563 1544 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-64"/>
+    </g>
+   </g>
+   <g id="text_62">
+    <!-- d -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(312.049327 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-64" d="M 1862 495 
+Q 2147 495 2403 646 
+Q 2659 797 2909 1105 
+L 2909 2816 
+Q 2729 2927 2525 2982 
+Q 2322 3037 2089 3037 
+Q 1618 3037 1391 2830 
+Q 1164 2624 1164 2205 
+L 1164 1268 
+Q 1164 879 1338 687 
+Q 1513 495 1862 495 
+z
+M 2735 582 
+Q 2583 279 2315 110 
+Q 2048 -58 1716 -58 
+Q 1175 -58 878 291 
+Q 582 640 582 1268 
+L 582 2217 
+Q 582 2851 977 3200 
+Q 1373 3549 2083 3549 
+Q 2287 3549 2502 3505 
+Q 2717 3462 2909 3386 
+L 2909 4655 
+L 3491 4655 
+L 3491 0 
+L 2909 0 
+L 2909 582 
+L 2735 582 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-64"/>
+    </g>
+   </g>
+   <g id="text_63">
+    <!-- f -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(383.599038 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-66" d="M 1256 0 
+L 1919 0 
+L 1919 2000 
+L 3275 2000 
+L 3275 2581 
+L 1919 2581 
+L 1919 3063 
+C 1919 3794 2213 4156 2806 4156 
+C 2994 4156 3181 4144 3444 4113 
+L 3513 4688 
+C 3281 4731 3075 4750 2825 4750 
+C 1775 4750 1256 4181 1256 3031 
+L 1256 2581 
+L 213 2581 
+L 213 2000 
+L 1256 2000 
+L 1256 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-66"/>
+    </g>
+   </g>
+   <g id="text_64">
+    <!-- f -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(382.387788 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-66" d="M 1455 0 
+L 1455 2967 
+L 466 2967 
+L 466 3491 
+L 1455 3491 
+L 1455 3724 
+Q 1455 4195 1824 4454 
+Q 2194 4713 2740 4713 
+Q 3008 4713 3220 4666 
+Q 3433 4620 3602 4561 
+L 3485 4073 
+Q 3357 4113 3174 4151 
+Q 2991 4189 2740 4189 
+Q 2420 4189 2228 4081 
+Q 2036 3974 2036 3729 
+L 2036 3491 
+L 3491 3491 
+L 3491 2967 
+L 2036 2967 
+L 2036 0 
+L 1455 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-66"/>
+    </g>
+   </g>
+   <g id="text_65">
+    <!-- g -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(453.9375 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-67" d="M 569 -1494 
+L 1538 -1463 
+C 2713 -1425 3225 -888 3225 294 
+L 3225 3313 
+L 2625 3313 
+L 2572 2713 
+L 2531 2713 
+C 2475 3128 2138 3375 1622 3375 
+C 753 3375 300 2775 300 1625 
+C 300 516 753 -63 1622 -63 
+C 2131 -63 2459 184 2500 600 
+L 2563 600 
+L 2563 194 
+C 2556 -488 2269 -838 1600 -856 
+L 538 -888 
+L 569 -1494 
+z
+M 2563 1769 
+L 2563 1544 
+C 2563 859 2291 500 1769 500 
+C 1234 500 956 884 956 1625 
+C 956 2406 1234 2813 1769 2813 
+C 2291 2813 2563 2453 2563 1769 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-67"/>
+    </g>
+   </g>
+   <g id="text_66">
+    <!-- g -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(452.72625 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-67" d="M 1862 785 
+Q 2141 785 2400 936 
+Q 2659 1088 2909 1396 
+L 2909 2816 
+Q 2717 2927 2510 2982 
+Q 2304 3037 2089 3037 
+Q 1623 3037 1393 2830 
+Q 1164 2624 1164 2205 
+L 1164 1565 
+Q 1164 1175 1338 980 
+Q 1513 785 1862 785 
+z
+M 3491 3188 
+L 3491 198 
+Q 3491 -465 3051 -837 
+Q 2612 -1210 1821 -1210 
+Q 1571 -1210 1291 -1160 
+Q 1012 -1111 762 -1024 
+L 873 -512 
+Q 1106 -588 1359 -634 
+Q 1612 -681 1833 -681 
+Q 2339 -681 2624 -451 
+Q 2909 -221 2909 186 
+L 2909 873 
+L 2735 873 
+Q 2583 570 2315 401 
+Q 2048 233 1716 233 
+Q 1175 233 878 582 
+Q 582 931 582 1559 
+L 582 2217 
+Q 582 2845 977 3197 
+Q 1373 3549 2083 3549 
+Q 2455 3549 2824 3453 
+Q 3194 3357 3491 3188 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-67"/>
+    </g>
+   </g>
+   <g id="text_67">
+    <!-- h -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(524.275962 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-68" d="M 2563 0 
+L 3225 0 
+L 3225 2156 
+C 3225 2931 2825 3375 2125 3375 
+C 1569 3375 1288 3156 1250 2713 
+L 1188 2713 
+L 1188 4688 
+L 525 4688 
+L 525 0 
+L 1188 0 
+L 1188 1863 
+C 1188 2500 1450 2813 1969 2813 
+C 2344 2813 2563 2575 2563 2156 
+L 2563 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-68"/>
+    </g>
+   </g>
+   <g id="text_68">
+    <!-- h -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(523.064712 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-68" d="M 582 0 
+L 582 4655 
+L 1164 4655 
+L 1164 2909 
+L 1338 2909 
+Q 1466 3206 1739 3377 
+Q 2013 3549 2362 3549 
+Q 2886 3549 3188 3229 
+Q 3491 2909 3491 2362 
+L 3491 0 
+L 2909 0 
+L 2909 2240 
+Q 2909 2607 2731 2801 
+Q 2554 2996 2223 2996 
+Q 1961 2996 1690 2839 
+Q 1420 2682 1164 2385 
+L 1164 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-68"/>
+    </g>
+   </g>
+   <g id="text_69">
+    <!-- i -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(594.614423 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-69" d="M 500 0 
+L 3444 0 
+L 3444 581 
+L 2425 581 
+L 2425 3313 
+L 688 3313 
+L 688 2731 
+L 1763 2731 
+L 1763 581 
+L 500 581 
+L 500 0 
+z
+M 2072 3838 
+C 2328 3838 2534 4044 2534 4300 
+C 2534 4556 2328 4763 2072 4763 
+C 1816 4763 1609 4556 1609 4300 
+C 1609 4044 1816 3838 2072 3838 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-69"/>
+    </g>
+   </g>
+   <g id="text_70">
+    <!-- i -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(593.403173 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-69" d="M 582 0 
+L 582 524 
+L 1746 524 
+L 1746 2967 
+L 582 2967 
+L 582 3491 
+L 2327 3491 
+L 2327 524 
+L 3491 524 
+L 3491 0 
+L 582 0 
+z
+M 2040 4131 
+Q 1819 4131 1682 4201 
+Q 1546 4271 1546 4463 
+L 1546 4503 
+Q 1546 4701 1682 4774 
+Q 1819 4847 2040 4847 
+Q 2261 4847 2398 4774 
+Q 2535 4701 2535 4503 
+L 2535 4463 
+Q 2535 4271 2395 4201 
+Q 2255 4131 2040 4131 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-69"/>
+    </g>
+   </g>
+   <g id="text_71">
+    <!-- j -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(664.952885 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6a" d="M 563 -1500 
+L 1094 -1463 
+C 2269 -1378 2775 -888 2775 294 
+L 2775 3313 
+L 825 3313 
+L 825 2731 
+L 2113 2731 
+L 2113 194 
+C 2113 -488 1825 -797 1156 -856 
+L 531 -913 
+L 563 -1500 
+z
+M 2375 3838 
+C 2631 3838 2838 4044 2838 4300 
+C 2838 4556 2631 4763 2375 4763 
+C 2119 4763 1913 4556 1913 4300 
+C 1913 4044 2119 3838 2375 3838 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6a"/>
+    </g>
+   </g>
+   <g id="text_72">
+    <!-- j -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(663.741635 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6a" d="M 1501 -1210 
+Q 1280 -1210 1059 -1184 
+Q 838 -1158 588 -1082 
+L 704 -524 
+Q 919 -599 1108 -625 
+Q 1298 -652 1484 -652 
+Q 1862 -652 2094 -492 
+Q 2327 -332 2327 41 
+L 2327 2967 
+L 698 2967 
+L 698 3491 
+L 2909 3491 
+L 2909 -35 
+Q 2909 -634 2504 -922 
+Q 2100 -1210 1501 -1210 
+z
+M 2600 4131 
+Q 2379 4131 2242 4201 
+Q 2106 4271 2106 4463 
+L 2106 4503 
+Q 2106 4701 2242 4774 
+Q 2379 4847 2600 4847 
+Q 2821 4847 2958 4774 
+Q 3095 4701 3095 4503 
+L 3095 4463 
+Q 3095 4271 2955 4201 
+Q 2815 4131 2600 4131 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6a"/>
+    </g>
+   </g>
+   <g id="text_73">
+    <!-- k -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(735.291346 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6b" d="M 500 0 
+L 1163 0 
+L 1163 1256 
+L 1500 1256 
+C 1672 1256 1831 1275 1978 1309 
+L 2744 0 
+L 3563 0 
+L 2588 1603 
+C 2994 1931 3247 2500 3350 3313 
+L 2663 3313 
+C 2519 2241 2169 1850 1344 1850 
+L 1163 1850 
+L 1163 4688 
+L 500 4688 
+L 500 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6b"/>
+    </g>
+   </g>
+   <g id="text_74">
+    <!-- k -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(734.080096 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6b" d="M 1455 1588 
+L 1455 0 
+L 873 0 
+L 873 4655 
+L 1455 4655 
+L 1455 2077 
+L 1751 2077 
+L 2868 3491 
+L 3578 3491 
+L 2211 1868 
+L 3561 0 
+L 2898 0 
+L 1751 1588 
+L 1455 1588 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6b"/>
+    </g>
+   </g>
+   <g id="text_75">
+    <!-- l -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(805.629808 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6c" d="M 2369 -63 
+C 2725 -63 3019 -25 3356 69 
+L 3281 650 
+C 3006 569 2806 531 2619 531 
+C 2050 531 1944 756 1944 1281 
+L 1944 4688 
+L 306 4688 
+L 306 4106 
+L 1281 4106 
+L 1281 1250 
+C 1281 331 1600 -63 2369 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6c"/>
+    </g>
+   </g>
+   <g id="text_76">
+    <!-- l -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(804.418558 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6c" d="M 582 0 
+L 582 524 
+L 1746 524 
+L 1746 4131 
+L 582 4131 
+L 582 4655 
+L 2327 4655 
+L 2327 524 
+L 3491 524 
+L 3491 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6c"/>
+    </g>
+   </g>
+   <g id="text_77">
+    <!-- m -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(875.968269 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6d" d="M 2738 0 
+L 3400 0 
+L 3400 2594 
+C 3400 3144 3200 3375 2744 3375 
+C 2394 3375 2206 3156 2188 2900 
+L 2134 2900 
+C 2072 3219 1878 3375 1600 3375 
+C 1238 3375 1056 3219 1031 2900 
+L 981 2900 
+L 938 3313 
+L 350 3313 
+L 350 0 
+L 1013 0 
+L 1013 2425 
+C 1013 2725 1119 2875 1331 2875 
+C 1506 2875 1594 2781 1594 2594 
+L 1594 0 
+L 2156 0 
+L 2156 2425 
+C 2156 2725 2263 2875 2481 2875 
+C 2656 2875 2738 2763 2738 2531 
+L 2738 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6d"/>
+    </g>
+   </g>
+   <g id="text_78">
+    <!-- m -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(874.757019 183.64) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6d" d="M 884 2502 
+L 884 0 
+L 349 0 
+L 349 3491 
+L 884 3491 
+L 884 3025 
+L 1001 3025 
+Q 1111 3270 1291 3409 
+Q 1472 3549 1670 3549 
+Q 1897 3549 2051 3412 
+Q 2205 3276 2263 3025 
+L 2391 3025 
+Q 2502 3270 2691 3409 
+Q 2880 3549 3095 3549 
+Q 3386 3549 3555 3313 
+Q 3724 3078 3724 2676 
+L 3724 0 
+L 3188 0 
+L 3188 2583 
+Q 3188 2845 3118 2979 
+Q 3049 3113 2915 3113 
+Q 2804 3113 2638 2950 
+Q 2473 2787 2304 2502 
+L 2304 0 
+L 1769 0 
+L 1769 2583 
+Q 1769 2845 1696 2979 
+Q 1623 3113 1490 3113 
+Q 1373 3113 1219 2956 
+Q 1065 2799 884 2502 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6d"/>
+    </g>
+   </g>
+   <g id="text_79">
+    <!-- n -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(31.906731 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6e" d="M 2563 0 
+L 3225 0 
+L 3225 2156 
+C 3225 2931 2825 3375 2125 3375 
+C 1569 3375 1288 3156 1250 2713 
+L 1178 2713 
+L 1125 3313 
+L 525 3313 
+L 525 0 
+L 1188 0 
+L 1188 1863 
+C 1188 2478 1450 2781 1969 2781 
+C 2344 2781 2563 2556 2563 2156 
+L 2563 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6e"/>
+    </g>
+   </g>
+   <g id="text_80">
+    <!-- n -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(30.695481 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6e" d="M 582 0 
+L 582 3491 
+L 1164 3491 
+L 1164 2909 
+L 1338 2909 
+Q 1466 3206 1739 3377 
+Q 2013 3549 2362 3549 
+Q 2886 3549 3188 3229 
+Q 3491 2909 3491 2356 
+L 3491 0 
+L 2909 0 
+L 2909 2240 
+Q 2909 2607 2731 2801 
+Q 2554 2996 2223 2996 
+Q 1961 2996 1690 2839 
+Q 1420 2682 1164 2385 
+L 1164 0 
+L 582 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6e"/>
+    </g>
+   </g>
+   <g id="text_81">
+    <!-- o -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(102.245192 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-6f" d="M 1875 -63 
+C 2794 -63 3325 563 3325 1656 
+C 3325 2750 2794 3375 1875 3375 
+C 956 3375 425 2750 425 1656 
+C 425 563 956 -63 1875 -63 
+z
+M 1875 531 
+C 1388 531 1113 938 1113 1656 
+C 1113 2375 1388 2781 1875 2781 
+C 2363 2781 2638 2375 2638 1656 
+C 2638 938 2363 531 1875 531 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-6f"/>
+    </g>
+   </g>
+   <g id="text_82">
+    <!-- o -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(101.033942 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-6f" d="M 2036 -58 
+Q 1332 -58 957 282 
+Q 582 623 582 1263 
+L 582 2205 
+Q 582 2851 960 3200 
+Q 1338 3549 2042 3549 
+Q 2740 3549 3115 3200 
+Q 3491 2851 3491 2205 
+L 3491 1263 
+Q 3491 623 3115 282 
+Q 2740 -58 2036 -58 
+z
+M 2036 465 
+Q 2479 465 2694 663 
+Q 2909 861 2909 1263 
+L 2909 2205 
+Q 2909 2624 2694 2824 
+Q 2479 3025 2036 3025 
+Q 1594 3025 1379 2824 
+Q 1164 2624 1164 2205 
+L 1164 1263 
+Q 1164 861 1379 663 
+Q 1594 465 2036 465 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-6f"/>
+    </g>
+   </g>
+   <g id="text_83">
+    <!-- p -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(172.583654 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-70" d="M 525 -1438 
+L 1188 -1438 
+L 1188 600 
+L 1250 600 
+C 1291 184 1619 -63 2128 -63 
+C 2997 -63 3450 516 3450 1625 
+C 3450 2775 2997 3375 2128 3375 
+C 1613 3375 1275 3128 1219 2713 
+L 1178 2713 
+L 1125 3313 
+L 525 3313 
+L 525 -1438 
+z
+M 1188 1544 
+L 1188 1769 
+C 1188 2453 1459 2813 1981 2813 
+C 2516 2813 2794 2406 2794 1625 
+C 2794 884 2516 500 1981 500 
+C 1459 500 1188 859 1188 1544 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-70"/>
+    </g>
+   </g>
+   <g id="text_84">
+    <!-- p -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(171.372404 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-70" d="M 1984 454 
+Q 2473 454 2691 651 
+Q 2909 849 2909 1286 
+L 2909 2228 
+Q 2909 2630 2743 2813 
+Q 2578 2996 2211 2996 
+Q 1920 2996 1670 2850 
+Q 1420 2705 1164 2385 
+L 1164 675 
+Q 1344 564 1539 509 
+Q 1734 454 1984 454 
+z
+M 1990 -58 
+Q 1792 -58 1574 -14 
+Q 1356 29 1164 105 
+L 1164 -1164 
+L 582 -1164 
+L 582 3491 
+L 1164 3491 
+L 1164 2909 
+L 1338 2909 
+Q 1484 3206 1760 3377 
+Q 2036 3549 2356 3549 
+Q 2880 3549 3185 3191 
+Q 3491 2833 3491 2223 
+L 3491 1274 
+Q 3491 657 3086 299 
+Q 2682 -58 1990 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-70"/>
+    </g>
+   </g>
+   <g id="text_85">
+    <!-- q -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(242.922115 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-71" d="M 1619 -63 
+C 2119 -63 2456 131 2500 513 
+L 2563 513 
+L 2563 -1438 
+L 3225 -1438 
+L 3225 3313 
+L 2625 3313 
+L 2572 2713 
+L 2500 2713 
+C 2444 3156 2156 3375 1625 3375 
+C 781 3375 300 2738 300 1625 
+C 300 538 781 -63 1619 -63 
+z
+M 2563 1988 
+L 2563 1063 
+C 2563 688 2319 500 1819 500 
+C 1250 500 956 881 956 1625 
+C 956 2381 1266 2813 1813 2813 
+C 2313 2813 2563 2541 2563 1988 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-71"/>
+    </g>
+   </g>
+   <g id="text_86">
+    <!-- q -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(241.710865 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-71" d="M 2909 -1164 
+L 2909 582 
+L 2735 582 
+Q 2578 268 2316 105 
+Q 2054 -58 1716 -58 
+Q 1164 -58 873 285 
+Q 582 628 582 1268 
+L 582 2217 
+Q 582 2863 1012 3206 
+Q 1443 3549 2083 3549 
+Q 2467 3549 2827 3456 
+Q 3188 3363 3491 3188 
+L 3491 -1164 
+L 2909 -1164 
+z
+M 1862 495 
+Q 2147 495 2403 643 
+Q 2659 791 2909 1105 
+L 2909 2816 
+Q 2711 2927 2510 2982 
+Q 2310 3037 2089 3037 
+Q 1705 3037 1434 2833 
+Q 1164 2630 1164 2205 
+L 1164 1327 
+Q 1164 902 1335 698 
+Q 1507 495 1862 495 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-71"/>
+    </g>
+   </g>
+   <g id="text_87">
+    <!-- r -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(313.260577 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-72" d="M 1650 1425 
+C 1650 2313 1925 2813 2488 2813 
+C 2806 2813 2944 2613 2944 2131 
+L 3600 2131 
+C 3600 3006 3306 3375 2625 3375 
+C 2050 3375 1750 3075 1713 2463 
+L 1638 2463 
+L 1525 3313 
+L 375 3313 
+L 375 2731 
+L 988 2731 
+L 988 581 
+L 250 581 
+L 250 0 
+L 2463 0 
+L 2463 581 
+L 1650 581 
+L 1650 1425 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-72"/>
+    </g>
+   </g>
+   <g id="text_88">
+    <!-- r -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(312.049327 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-72" d="M 873 0 
+L 873 3491 
+L 1455 3491 
+L 1455 2909 
+L 1629 2909 
+Q 1751 3241 2001 3395 
+Q 2252 3549 2607 3549 
+Q 2996 3549 3258 3290 
+Q 3520 3031 3520 2560 
+L 3520 2036 
+L 2967 2036 
+L 2967 2351 
+Q 2967 2682 2819 2839 
+Q 2671 2996 2368 2996 
+Q 2095 2996 1871 2862 
+Q 1647 2729 1455 2444 
+L 1455 0 
+L 873 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-72"/>
+    </g>
+   </g>
+   <g id="text_89">
+    <!-- s -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(383.599038 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-73" d="M 1619 -63 
+C 2769 -63 3263 244 3263 956 
+C 3263 1488 2950 1731 2256 1900 
+L 1644 2050 
+C 1359 2119 1225 2181 1225 2375 
+C 1225 2663 1538 2781 2281 2781 
+C 2525 2781 2769 2769 3106 2738 
+L 3175 3313 
+C 2881 3356 2619 3375 2300 3375 
+C 1063 3375 538 3069 538 2344 
+C 538 1844 834 1641 1488 1475 
+L 2250 1281 
+C 2469 1225 2575 1144 2575 944 
+C 2575 656 2288 531 1619 531 
+C 1319 531 1000 563 563 631 
+L 488 31 
+C 781 -38 1119 -63 1619 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-73"/>
+    </g>
+   </g>
+   <g id="text_90">
+    <!-- s -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(382.387788 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-73" d="M 2083 -58 
+Q 1641 -58 1228 73 
+Q 815 204 466 477 
+L 727 937 
+Q 1012 704 1364 584 
+Q 1716 465 2083 465 
+Q 2386 465 2662 558 
+Q 2938 652 2938 954 
+Q 2938 1204 2711 1309 
+Q 2484 1414 1879 1489 
+Q 1239 1565 910 1789 
+Q 582 2013 582 2496 
+Q 582 3020 977 3284 
+Q 1373 3549 1897 3549 
+Q 2310 3549 2691 3409 
+Q 3072 3270 3398 3014 
+L 3136 2554 
+Q 2868 2769 2554 2897 
+Q 2240 3025 1897 3025 
+Q 1618 3025 1388 2920 
+Q 1158 2816 1158 2537 
+Q 1158 2298 1370 2190 
+Q 1583 2083 2188 2007 
+Q 2851 1932 3182 1684 
+Q 3514 1437 3514 995 
+Q 3514 448 3072 195 
+Q 2630 -58 2083 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-73"/>
+    </g>
+   </g>
+   <g id="text_91">
+    <!-- t -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(453.9375 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-74" d="M 2475 -63 
+C 2788 -63 3050 -38 3344 13 
+L 3269 594 
+C 2969 556 2744 531 2538 531 
+C 1950 531 1713 756 1713 1281 
+L 1713 2731 
+L 3219 2731 
+L 3219 3313 
+L 1713 3313 
+L 1713 4313 
+L 1050 4313 
+L 1050 3313 
+L 219 3313 
+L 219 2731 
+L 1050 2731 
+L 1050 1250 
+C 1050 331 1469 -63 2475 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-74"/>
+    </g>
+   </g>
+   <g id="text_92">
+    <!-- t -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(452.72625 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-74" d="M 2612 -52 
+Q 2036 -52 1716 233 
+Q 1396 518 1396 1105 
+L 1396 2967 
+L 407 2967 
+L 407 3491 
+L 1396 3491 
+L 1396 4655 
+L 1978 4655 
+L 1978 3491 
+L 3491 3491 
+L 3491 2967 
+L 1978 2967 
+L 1978 1158 
+Q 1978 820 2147 657 
+Q 2316 495 2647 495 
+Q 2868 495 3060 527 
+Q 3252 559 3427 611 
+L 3543 81 
+Q 3346 23 3122 -14 
+Q 2898 -52 2612 -52 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-74"/>
+    </g>
+   </g>
+   <g id="text_93">
+    <!-- u -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(524.275962 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-75" d="M 1550 -63 
+C 1994 -63 2313 188 2419 638 
+L 2478 638 
+L 2525 -31 
+L 3588 0 
+L 3588 531 
+L 3131 600 
+L 3131 3313 
+L 2469 3313 
+L 2469 1531 
+C 2469 809 2219 531 1738 531 
+C 1347 531 1119 744 1119 1125 
+L 1119 3313 
+L 456 3313 
+L 456 1125 
+C 456 369 853 -63 1550 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-75"/>
+    </g>
+   </g>
+   <g id="text_94">
+    <!-- u -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(523.064712 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-75" d="M 1711 -58 
+Q 1204 -58 893 270 
+Q 582 599 582 1135 
+L 582 3491 
+L 1164 3491 
+L 1164 1251 
+Q 1164 867 1332 681 
+Q 1501 495 1850 495 
+Q 2124 495 2383 643 
+Q 2642 791 2909 1105 
+L 2909 3491 
+L 3491 3491 
+L 3491 0 
+L 2909 0 
+L 2909 582 
+L 2735 582 
+Q 2612 297 2330 119 
+Q 2048 -58 1711 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-75"/>
+    </g>
+   </g>
+   <g id="text_95">
+    <!-- v -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(594.614423 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-76" d="M 1434 0 
+L 2316 0 
+L 3500 3313 
+L 2794 3313 
+L 1903 563 
+L 1847 563 
+L 956 3313 
+L 250 3313 
+L 1434 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-76"/>
+    </g>
+   </g>
+   <g id="text_96">
+    <!-- v -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(593.403173 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-76" d="M 2397 0 
+L 1670 0 
+L 431 3491 
+L 1065 3491 
+L 2042 471 
+L 3020 3491 
+L 3636 3491 
+L 2397 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-76"/>
+    </g>
+   </g>
+   <g id="text_97">
+    <!-- w -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(664.952885 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-77" d="M 2250 0 
+L 3063 0 
+L 3531 3313 
+L 2875 3313 
+L 2594 500 
+L 2538 500 
+L 2147 3313 
+L 1541 3313 
+L 1150 500 
+L 1094 500 
+L 844 3313 
+L 219 3313 
+L 594 0 
+L 1438 0 
+L 1825 2631 
+L 1863 2631 
+L 2250 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-77"/>
+    </g>
+   </g>
+   <g id="text_98">
+    <!-- w -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(663.741635 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-77" d="M 2548 0 
+L 2036 2275 
+L 1548 0 
+L 884 0 
+L 227 3491 
+L 786 3491 
+L 1228 425 
+L 1682 2909 
+L 2368 2909 
+L 2863 518 
+L 3287 3491 
+L 3846 3491 
+L 3188 0 
+L 2548 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-77"/>
+    </g>
+   </g>
+   <g id="text_99">
+    <!-- x -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(735.291346 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-78" d="M 331 0 
+L 1081 0 
+L 1859 1150 
+L 2669 0 
+L 3419 0 
+L 2219 1663 
+L 3419 3313 
+L 2669 3313 
+L 1875 2153 
+L 1081 3313 
+L 331 3313 
+L 1516 1638 
+L 331 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-78"/>
+    </g>
+   </g>
+   <g id="text_100">
+    <!-- x -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(734.080096 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-78" d="M 2903 0 
+L 2002 1332 
+L 1140 0 
+L 495 0 
+L 1716 1751 
+L 535 3491 
+L 1187 3491 
+L 2054 2211 
+L 2932 3491 
+L 3578 3491 
+L 2345 1780 
+L 3555 0 
+L 2903 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-78"/>
+    </g>
+   </g>
+   <g id="text_101">
+    <!-- y -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(805.629808 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-79" d="M 234 -1500 
+L 797 -1438 
+C 1684 -1338 2153 -894 2528 294 
+L 3484 3313 
+L 2797 3313 
+L 1988 500 
+L 1941 500 
+L 859 3313 
+L 172 3313 
+L 1491 0 
+L 1813 0 
+C 1575 -547 1250 -781 722 -844 
+L 203 -906 
+L 234 -1500 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-79"/>
+    </g>
+   </g>
+   <g id="text_102">
+    <!-- y -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(804.418558 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-79" d="M 1001 -1199 
+Q 861 -1199 727 -1181 
+Q 594 -1164 454 -1135 
+L 553 -617 
+Q 704 -652 835 -669 
+Q 966 -687 1076 -687 
+Q 1344 -687 1550 -535 
+Q 1757 -384 1868 -52 
+L 1885 0 
+L 1670 0 
+L 431 3491 
+L 1065 3491 
+L 2048 489 
+L 3026 3491 
+L 3636 3491 
+L 2356 -116 
+Q 2159 -681 1818 -940 
+Q 1478 -1199 1001 -1199 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-79"/>
+    </g>
+   </g>
+   <g id="text_103">
+    <!-- z -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(875.968269 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-7a" d="M 513 0 
+L 3238 0 
+L 3238 588 
+L 1303 588 
+L 3175 2725 
+L 3175 3313 
+L 513 3313 
+L 513 2725 
+L 2394 2725 
+L 513 588 
+L 513 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-7a"/>
+    </g>
+   </g>
+   <g id="text_104">
+    <!-- z -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(874.757019 249.864) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-7a" d="M 3375 0 
+L 698 0 
+L 698 524 
+L 2659 2967 
+L 698 2967 
+L 698 3491 
+L 3375 3491 
+L 3375 2967 
+L 1414 524 
+L 3375 524 
+L 3375 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-7a"/>
+    </g>
+   </g>
+   <g id="text_105">
+    <!-- 1 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(31.906731 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-31" d="M 531 0 
+L 3288 0 
+L 3288 594 
+L 2294 594 
+L 2294 4438 
+L 1644 4438 
+L 594 4063 
+L 594 3431 
+L 1644 3794 
+L 1644 594 
+L 531 594 
+L 531 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-31"/>
+    </g>
+   </g>
+   <g id="text_106">
+    <!-- 1 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(30.695481 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-31" d="M 756 0 
+L 756 524 
+L 2036 524 
+L 2036 3956 
+L 1868 3956 
+Q 1670 3607 1358 3461 
+Q 1047 3316 640 3386 
+L 582 3956 
+Q 1030 3904 1402 4081 
+Q 1775 4259 2054 4655 
+L 2618 4655 
+L 2618 524 
+L 3782 524 
+L 3782 0 
+L 756 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-31"/>
+    </g>
+   </g>
+   <g id="text_107">
+    <!-- 2 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(102.245192 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-32" d="M 475 0 
+L 3363 0 
+L 3363 594 
+L 1450 594 
+L 1450 688 
+C 2613 1447 3175 2266 3175 3163 
+C 3175 4056 2713 4500 1775 4500 
+C 1194 4500 619 4228 331 3816 
+L 763 3388 
+C 1025 3713 1425 3925 1763 3925 
+C 2269 3925 2519 3672 2519 3163 
+C 2519 2291 1847 1469 475 713 
+L 475 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-32"/>
+    </g>
+   </g>
+   <g id="text_108">
+    <!-- 2 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(101.033942 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-32" d="M 466 0 
+L 466 989 
+Q 466 1519 722 1827 
+Q 978 2135 1565 2310 
+L 2356 2543 
+Q 2688 2636 2827 2781 
+Q 2967 2927 2967 3217 
+L 2967 3456 
+Q 2967 3857 2772 4023 
+Q 2578 4189 2036 4189 
+Q 1542 4189 1347 3982 
+Q 1152 3776 1106 3194 
+L 524 3252 
+Q 570 4049 910 4381 
+Q 1251 4713 2031 4713 
+Q 2793 4713 3171 4416 
+Q 3549 4119 3549 3514 
+L 3549 3130 
+Q 3549 2694 3299 2432 
+Q 3049 2170 2473 2001 
+L 1676 1769 
+Q 1391 1687 1219 1533 
+Q 1047 1379 1047 1001 
+L 1047 524 
+L 3607 524 
+L 3607 0 
+L 466 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-32"/>
+    </g>
+   </g>
+   <g id="text_109">
+    <!-- 3 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(172.583654 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-33" d="M 1606 -63 
+C 2659 -63 3263 394 3263 1188 
+C 3263 1828 2853 2234 2244 2341 
+L 2244 2406 
+C 2794 2553 3169 2972 3169 3506 
+C 3169 4144 2709 4500 1900 4500 
+C 1278 4500 775 4313 391 3878 
+L 822 3450 
+C 1138 3766 1513 3925 1831 3925 
+C 2269 3925 2513 3713 2513 3350 
+C 2513 2897 2097 2569 1113 2438 
+L 1188 2031 
+L 1288 2031 
+C 2128 2031 2606 1750 2606 1250 
+C 2606 781 2231 513 1581 513 
+C 1094 513 800 613 547 684 
+L 469 88 
+C 763 -3 1147 -63 1606 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-33"/>
+    </g>
+   </g>
+   <g id="text_110">
+    <!-- 3 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(171.372404 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-33" d="M 1978 -58 
+Q 1082 -58 765 273 
+Q 448 605 407 1263 
+L 989 1321 
+Q 1047 797 1239 625 
+Q 1431 454 1978 454 
+Q 2560 454 2793 634 
+Q 3026 815 3026 1263 
+L 3026 1420 
+Q 3026 1856 2804 2033 
+Q 2583 2211 2036 2211 
+L 1455 2211 
+L 1455 2735 
+L 2036 2735 
+Q 2519 2735 2714 2871 
+Q 2909 3008 2909 3351 
+L 2909 3537 
+Q 2909 3904 2702 4052 
+Q 2496 4201 1978 4201 
+Q 1524 4201 1338 4038 
+Q 1152 3875 1106 3421 
+L 524 3479 
+Q 564 4137 922 4425 
+Q 1280 4713 1978 4713 
+Q 2682 4713 3086 4439 
+Q 3491 4166 3491 3537 
+L 3491 3351 
+Q 3491 3002 3249 2798 
+Q 3008 2595 2578 2566 
+L 2578 2397 
+Q 3095 2356 3351 2077 
+Q 3607 1798 3607 1420 
+L 3607 1263 
+Q 3607 634 3243 288 
+Q 2880 -58 1978 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-33"/>
+    </g>
+   </g>
+   <g id="text_111">
+    <!-- 4 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(242.922115 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-34" d="M 231 994 
+L 2431 994 
+L 2431 0 
+L 3081 0 
+L 3081 994 
+L 3500 994 
+L 3500 1575 
+L 3081 1575 
+L 3081 4438 
+L 2431 4438 
+L 2431 1575 
+L 1016 1575 
+L 1531 4188 
+L 856 4188 
+L 231 994 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-34"/>
+    </g>
+   </g>
+   <g id="text_112">
+    <!-- 4 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(241.710865 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-34" d="M 1047 1745 
+L 2618 1745 
+L 2618 4049 
+L 1047 1745 
+z
+M 3898 1222 
+L 3200 1222 
+L 3200 0 
+L 2618 0 
+L 2618 1222 
+L 407 1222 
+L 407 1745 
+L 2356 4655 
+L 3200 4655 
+L 3200 1745 
+L 3898 1745 
+L 3898 1222 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-34"/>
+    </g>
+   </g>
+   <g id="text_113">
+    <!-- 5 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(313.260577 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-35" d="M 1919 -63 
+C 2872 -63 3419 481 3419 1431 
+C 3419 2363 2928 2894 2069 2894 
+C 1831 2894 1597 2869 1359 2781 
+L 1394 3856 
+L 3138 3856 
+L 3138 4438 
+L 744 4438 
+L 681 2125 
+L 1031 2125 
+C 1284 2263 1556 2331 1850 2331 
+C 2431 2331 2763 2003 2763 1431 
+C 2763 847 2459 513 1925 513 
+C 1384 513 1081 781 1081 1244 
+L 413 1244 
+C 413 413 959 -63 1919 -63 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-35"/>
+    </g>
+   </g>
+   <g id="text_114">
+    <!-- 5 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(312.049327 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-35" d="M 2031 -58 
+Q 1129 -58 788 224 
+Q 448 506 407 1286 
+L 989 1344 
+Q 1030 791 1225 628 
+Q 1420 465 2036 465 
+Q 2566 465 2796 663 
+Q 3026 861 3026 1257 
+L 3026 1536 
+Q 3026 1955 2839 2141 
+Q 2653 2327 2240 2327 
+L 582 2327 
+L 582 4655 
+L 3375 4655 
+L 3375 4131 
+L 1164 4131 
+L 1164 2880 
+L 2240 2880 
+Q 2932 2880 3269 2560 
+Q 3607 2240 3607 1588 
+L 3607 1199 
+Q 3607 623 3200 282 
+Q 2793 -58 2031 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-35"/>
+    </g>
+   </g>
+   <g id="text_115">
+    <!-- 6 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(383.599038 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-36" d="M 1900 -63 
+C 2853 -63 3419 494 3419 1438 
+C 3419 2313 2981 2813 2206 2813 
+C 1669 2813 1275 2550 1150 2088 
+L 1094 2088 
+C 1097 3222 1747 3806 3075 3863 
+L 3013 4456 
+C 1250 4369 400 3488 400 1794 
+L 400 1519 
+C 400 434 872 -63 1900 -63 
+z
+M 1922 513 
+C 1384 513 1069 834 1069 1375 
+C 1069 1925 1394 2238 1972 2238 
+C 2481 2238 2763 1950 2763 1438 
+C 2763 856 2450 513 1922 513 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-36"/>
+    </g>
+   </g>
+   <g id="text_116">
+    <!-- 6 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(382.387788 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-36" d="M 2036 -58 
+Q 1216 -58 841 393 
+Q 466 844 466 1606 
+L 466 3020 
+Q 466 3834 876 4273 
+Q 1286 4713 2048 4713 
+Q 2740 4713 3089 4460 
+Q 3439 4207 3555 3642 
+L 2921 3508 
+Q 2845 3863 2676 4026 
+Q 2508 4189 2036 4189 
+Q 1501 4189 1274 3918 
+Q 1047 3648 1047 3020 
+L 1047 2461 
+L 1164 2461 
+Q 1321 2671 1562 2787 
+Q 1804 2903 2205 2903 
+Q 2903 2903 3255 2519 
+Q 3607 2135 3607 1524 
+L 3607 1396 
+Q 3607 692 3200 317 
+Q 2793 -58 2036 -58 
+z
+M 2031 465 
+Q 2537 465 2775 689 
+Q 3014 913 3014 1385 
+L 3014 1460 
+Q 3014 1932 2775 2156 
+Q 2537 2380 2031 2380 
+Q 1524 2380 1285 2156 
+Q 1047 1932 1047 1460 
+L 1047 1385 
+Q 1047 913 1285 689 
+Q 1524 465 2031 465 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-36"/>
+    </g>
+   </g>
+   <g id="text_117">
+    <!-- 7 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(453.9375 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-37" d="M 1366 0 
+L 2081 0 
+L 3606 4438 
+L 350 4438 
+L 350 2881 
+L 1019 2881 
+L 1019 3844 
+L 2688 3844 
+L 1366 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-37"/>
+    </g>
+   </g>
+   <g id="text_118">
+    <!-- 7 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(452.72625 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-37" d="M 1455 0 
+Q 1769 1437 2057 2254 
+Q 2345 3072 3026 4073 
+L 466 4073 
+L 466 4655 
+L 3607 4655 
+L 3607 4073 
+Q 2944 2985 2624 2109 
+Q 2304 1233 2095 0 
+L 1455 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-37"/>
+    </g>
+   </g>
+   <g id="text_119">
+    <!-- 8 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(524.275962 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-38" d="M 1875 -63 
+C 2838 -63 3388 406 3388 1219 
+C 3388 1816 3034 2206 2400 2338 
+L 2400 2384 
+C 2953 2513 3263 2859 3263 3375 
+C 3263 4088 2756 4500 1875 4500 
+C 994 4500 488 4088 488 3375 
+C 488 2856 797 2509 1356 2384 
+L 1356 2338 
+C 719 2209 363 1816 363 1219 
+C 363 406 913 -63 1875 -63 
+z
+M 1875 513 
+C 1328 513 1019 781 1019 1250 
+C 1019 1750 1328 2044 1875 2044 
+C 2422 2044 2731 1750 2731 1250 
+C 2731 781 2422 513 1875 513 
+z
+M 1875 2644 
+C 1409 2644 1144 2869 1144 3250 
+C 1144 3681 1409 3925 1875 3925 
+C 2341 3925 2606 3681 2606 3250 
+C 2606 2869 2341 2644 1875 2644 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-38"/>
+    </g>
+   </g>
+   <g id="text_120">
+    <!-- 8 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(523.064712 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-38" d="M 2036 -58 
+Q 1210 -58 838 241 
+Q 466 541 466 1204 
+L 466 1332 
+Q 466 1769 707 2048 
+Q 948 2327 1379 2368 
+L 1379 2537 
+Q 1042 2566 812 2798 
+Q 582 3031 582 3409 
+L 582 3596 
+Q 582 4183 928 4448 
+Q 1274 4713 2036 4713 
+Q 2799 4713 3145 4448 
+Q 3491 4183 3491 3596 
+L 3491 3409 
+Q 3491 3031 3261 2798 
+Q 3031 2566 2694 2537 
+L 2694 2368 
+Q 3124 2327 3365 2045 
+Q 3607 1763 3607 1332 
+L 3607 1204 
+Q 3607 541 3235 241 
+Q 2863 -58 2036 -58 
+z
+M 2036 2705 
+Q 2525 2705 2717 2853 
+Q 2909 3002 2909 3380 
+L 2909 3537 
+Q 2909 3904 2717 4052 
+Q 2525 4201 2036 4201 
+Q 1548 4201 1356 4052 
+Q 1164 3904 1164 3537 
+L 1164 3380 
+Q 1164 3002 1356 2853 
+Q 1548 2705 2036 2705 
+z
+M 2036 454 
+Q 2589 454 2807 631 
+Q 3026 809 3026 1263 
+L 3026 1361 
+Q 3026 1821 2807 2001 
+Q 2589 2182 2036 2182 
+Q 1484 2182 1265 2001 
+Q 1047 1821 1047 1361 
+L 1047 1263 
+Q 1047 809 1265 631 
+Q 1484 454 2036 454 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-38"/>
+    </g>
+   </g>
+   <g id="text_121">
+    <!-- 9 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(594.614423 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-39" d="M 1575 1581 
+C 2113 1581 2506 1844 2631 2306 
+L 2688 2306 
+C 2684 1172 2034 588 706 531 
+L 769 -63 
+C 2531 25 3381 906 3381 2600 
+L 3381 2875 
+C 3381 3959 2909 4456 1881 4456 
+C 928 4456 363 3900 363 2956 
+C 363 2081 800 1581 1575 1581 
+z
+M 1809 2156 
+C 1300 2156 1019 2444 1019 2956 
+C 1019 3538 1331 3881 1859 3881 
+C 2397 3881 2713 3559 2713 3019 
+C 2713 2469 2388 2156 1809 2156 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-39"/>
+    </g>
+   </g>
+   <g id="text_122">
+    <!-- 9 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(593.403173 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-39" d="M 2042 2275 
+Q 2537 2275 2781 2502 
+Q 3026 2729 3026 3194 
+L 3026 3270 
+Q 3026 3735 2781 3962 
+Q 2537 4189 2042 4189 
+Q 1548 4189 1303 3962 
+Q 1059 3735 1059 3270 
+L 1059 3194 
+Q 1059 2729 1303 2502 
+Q 1548 2275 2042 2275 
+z
+M 2025 -58 
+Q 1332 -58 983 195 
+Q 634 448 518 1012 
+L 1152 1146 
+Q 1239 756 1425 610 
+Q 1612 465 2036 465 
+Q 2560 465 2793 738 
+Q 3026 1012 3026 1635 
+L 3026 2193 
+L 2909 2193 
+Q 2746 1967 2484 1859 
+Q 2223 1751 1844 1751 
+Q 1164 1751 815 2135 
+Q 466 2519 466 3130 
+L 466 3258 
+Q 466 3962 873 4337 
+Q 1280 4713 2036 4713 
+Q 2857 4713 3232 4262 
+Q 3607 3811 3607 3049 
+L 3607 1635 
+Q 3607 867 3229 404 
+Q 2851 -58 2025 -58 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-39"/>
+    </g>
+   </g>
+   <g id="text_123">
+    <!-- 0 -->
+    <g style="fill: #32a4fa; opacity: 0.6" transform="translate(664.952885 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="CascadiaCode-Regular-30" d="M 1875 -63 
+C 2881 -63 3388 681 3388 2188 
+C 3388 3731 2881 4500 1875 4500 
+C 869 4500 363 3731 363 2188 
+C 363 681 869 -63 1875 -63 
+z
+M 1875 513 
+C 1313 513 1031 1069 1031 2188 
+C 1031 3350 1313 3925 1875 3925 
+C 2438 3925 2719 3350 2719 2188 
+C 2719 1069 2438 513 1875 513 
+z
+M 1875 1719 
+C 2156 1719 2344 1906 2344 2188 
+C 2344 2469 2156 2656 1875 2656 
+C 1594 2656 1406 2469 1406 2188 
+C 1406 1906 1594 1719 1875 1719 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_124">
+    <!-- 0 -->
+    <g style="fill: #faa932; opacity: 0.6" transform="translate(663.741635 316.088) scale(0.48 -0.48)">
+     <defs>
+      <path id="InputMono-Regular-30" d="M 2036 -58 
+Q 1216 -58 841 509 
+Q 466 1076 466 2019 
+L 466 2612 
+Q 466 3561 844 4137 
+Q 1222 4713 2042 4713 
+Q 2863 4713 3235 4137 
+Q 3607 3561 3607 2612 
+L 3607 2019 
+Q 3607 1076 3232 509 
+Q 2857 -58 2036 -58 
+z
+M 1047 2077 
+Q 1047 1745 1082 1466 
+Q 1117 1187 1204 983 
+L 2455 4108 
+Q 2368 4148 2263 4168 
+Q 2159 4189 2036 4189 
+Q 1449 4189 1248 3732 
+Q 1047 3276 1047 2554 
+L 1047 2077 
+z
+M 2036 465 
+Q 2624 465 2825 907 
+Q 3026 1350 3026 2077 
+L 3026 2554 
+Q 3026 2938 2973 3258 
+Q 2921 3578 2793 3793 
+L 1524 593 
+Q 1623 535 1751 500 
+Q 1879 465 2036 465 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_125">
+    <!-- Cascadia Code -->
+    <g style="fill: #32a4fa; opacity: 0.8" transform="translate(728.252308 279.6648) scale(0.12 -0.12)">
+     <defs>
+      <path id="CascadiaCode-Regular-20" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaCode-Regular-43"/>
+     <use xlink:href="#CascadiaCode-Regular-61" x="58.59375"/>
+     <use xlink:href="#CascadiaCode-Regular-73" x="117.1875"/>
+     <use xlink:href="#CascadiaCode-Regular-63" x="175.78125"/>
+     <use xlink:href="#CascadiaCode-Regular-61" x="234.375"/>
+     <use xlink:href="#CascadiaCode-Regular-64" x="292.96875"/>
+     <use xlink:href="#CascadiaCode-Regular-69" x="351.5625"/>
+     <use xlink:href="#CascadiaCode-Regular-61" x="410.15625"/>
+     <use xlink:href="#CascadiaCode-Regular-20" x="468.75"/>
+     <use xlink:href="#CascadiaCode-Regular-43" x="527.34375"/>
+     <use xlink:href="#CascadiaCode-Regular-6f" x="585.9375"/>
+     <use xlink:href="#CascadiaCode-Regular-64" x="644.53125"/>
+     <use xlink:href="#CascadiaCode-Regular-65" x="703.125"/>
+    </g>
+   </g>
+   <g id="text_126">
+    <!-- Regular -->
+    <g style="fill: #32a4fa; opacity: 0.8" transform="translate(728.252308 292.9096) scale(0.12 -0.12)">
+     <use xlink:href="#CascadiaCode-Regular-52"/>
+     <use xlink:href="#CascadiaCode-Regular-65" x="58.59375"/>
+     <use xlink:href="#CascadiaCode-Regular-67" x="117.1875"/>
+     <use xlink:href="#CascadiaCode-Regular-75" x="175.78125"/>
+     <use xlink:href="#CascadiaCode-Regular-6c" x="234.375"/>
+     <use xlink:href="#CascadiaCode-Regular-61" x="292.96875"/>
+     <use xlink:href="#CascadiaCode-Regular-72" x="351.5625"/>
+    </g>
+   </g>
+   <g id="text_127">
+    <!-- Input Mono -->
+    <g style="fill: #faa932; opacity: 0.8" transform="translate(728.252308 309.4656) scale(0.12 -0.12)">
+     <defs>
+      <path id="InputMono-Regular-20" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#InputMono-Regular-49"/>
+     <use xlink:href="#InputMono-Regular-6e" x="63.636353"/>
+     <use xlink:href="#InputMono-Regular-70" x="127.272705"/>
+     <use xlink:href="#InputMono-Regular-75" x="190.909058"/>
+     <use xlink:href="#InputMono-Regular-74" x="254.54541"/>
+     <use xlink:href="#InputMono-Regular-20" x="318.181763"/>
+     <use xlink:href="#InputMono-Regular-4d" x="381.818115"/>
+     <use xlink:href="#InputMono-Regular-6f" x="445.454468"/>
+     <use xlink:href="#InputMono-Regular-6e" x="509.09082"/>
+     <use xlink:href="#InputMono-Regular-6f" x="572.727173"/>
+    </g>
+   </g>
+   <g id="text_128">
+    <!-- Regular -->
+    <g style="fill: #faa932; opacity: 0.8" transform="translate(728.252308 322.7104) scale(0.12 -0.12)">
+     <use xlink:href="#InputMono-Regular-52"/>
+     <use xlink:href="#InputMono-Regular-65" x="63.636353"/>
+     <use xlink:href="#InputMono-Regular-67" x="127.272705"/>
+     <use xlink:href="#InputMono-Regular-75" x="190.909058"/>
+     <use xlink:href="#InputMono-Regular-6c" x="254.54541"/>
+     <use xlink:href="#InputMono-Regular-61" x="318.181763"/>
+     <use xlink:href="#InputMono-Regular-72" x="381.818115"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

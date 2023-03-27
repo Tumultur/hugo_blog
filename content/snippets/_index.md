@@ -17,8 +17,8 @@ Windows LTSC 的许多不明问题（如开机时 wsappx 进程占用 CPU，以�
 
 对于中英文混排，常见的做法是直接插入空格。我认为六分之一空格（U+2006）较美观，较少打扰文字流。不过这并未考虑到实际应用时产生的各种问题，只是突发奇想的观点；如果是本页面第一段那种混排程度，不论多少间距，效果都不会非常理想。本博客也使用六分之一空格作为中英文之间的间距。
 
-英文正文排版应使用小型大写字母和小写数字，以配合拉丁字母的高度。例如：“The <span class="small-caps">USA</span> declared independence in <span class="text-figures">1776</span>.”中文则更类似于全大写拉丁字母，因此这样做只会起到负面作用。导致这种错误的一个原因是将 Georgia 或本博客使用的 Scala Sans 等默认采用小写数字的字体设为英文字体。
+英文正文排版应酌情使用小型大写字母和小写数字，以配合拉丁字母的高度。例如：“The <span class="small-caps">USA</span> declared independence in <span class="text-figures">1776</span>.”中文则更类似于全大写拉丁字母，因此这样做只会起到负面作用。导致这种错误的一个原因是将 Georgia 或本博客使用的 Scala Sans 等默认采用小写数字的字体设为英文字体。
 
-<span style="font-family: garamond-premier-pro">Th</span> 这种连字在历史上是基本不存在的。根据 [Stack Exchange](https://graphicdesign.stackexchange.com/questions/137945/are-th-ligatures-used-in-german-typesetting#answer-137946) 上的一个回答，德文中的 dehnungs-h 或长音 h 可以与 T 在词首形成连字，符合某种如今已经不常见的发音规范；英文则没有这种规则。包括这个连字的正文字体亦是少之又少，我知道的包括 Mrs Eaves 和某个较老版本的 Palatino。而 Adobe Originals 系列的衬线字体一般会把这个连字包括在 Standard Ligature 特性中，是一种非常奇怪的做法。同样默认启用这个连字的还有 Linux Libertine。如果要在 InDesign 里将其停用而不影响其他连字，可以使用 GREP Style 匹配 Th 这两个字母，然后应用一个禁用标准连字的字符属性。
+<span style="font-family: garamond-premier-pro">Th</span> 这种连字在历史上是比较少见的。根据 [Stack Exchange](https://graphicdesign.stackexchange.com/questions/137945/are-th-ligatures-used-in-german-typesetting#answer-137946) 上的一个回答，德文中的 dehnungs-h 或长音 h 可以与 T 在词首形成连字，符合某种如今已经不常见的发音规范；英文则没有这种规则。包括这个连字的正文字体亦是少之又少，我知道的包括 Mrs Eaves 和某个较老版本的 Palatino。而 Adobe Originals 系列的衬线字体一般会把这个连字包括在 Standard Ligature 特性中，甚至连基于历史蓝本的 Caslon、Adobe Jenson 和两款 Garamond 也不例外，可以说是一种非常奇怪的做法。同样默认启用这个连字的还有 Linux Libertine。如果要在 InDesign 里将其停用而不影响其他连字，可以使用 GREP Style 匹配 Th 这两个字母，然后应用一个禁用标准连字的字符属性。
 
 英文版 Illustrator 可以在设置中打开东亚排版特性，但 InDesign 没有这个选项。对于 Windows， 可以将注册表 HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\InDesign\版本号\Feature Set Locale Setting 一项从 256 改为 257，十六进制则是 100 改为 101。对于 macOS，可以对 Applications/应用名/Presets/applicationpreferences/indesign/applicationpreference.plist 进行同样处理。本方法来自 [Dr Ken Lunde](https://ken-lunde.medium.com/adobe-indesign-tips-japanese-cjk-functionality-english-ui-redux-539528e295c6)。

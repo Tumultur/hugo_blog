@@ -3,7 +3,7 @@
   font-family: "Fullwidth quotes";
   /* ditch linux because not important */
   src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
-  unicode-range: U+2018-2019, U+201C-201D;
+  unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B;
 }
 
 @font-face {
@@ -35,7 +35,7 @@ body {
   font-family: 'Fullwidth quotes', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
   font-variant-numeric: lining-nums;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 header{
@@ -43,7 +43,7 @@ header{
   min-width: 45%;
   max-width: 80%;
   margin: auto;
-  padding-top: 20px;
+  padding-top: 18px;
 }
 .title-wrapper{
   display: flex;
@@ -68,6 +68,7 @@ header{
   font-family: 'ff-scala-sans-pro', system-ui;
   float: right;
   color: black;
+  margin-left: 16px;
 }
 .header-link:hover{
   text-decoration: none;
