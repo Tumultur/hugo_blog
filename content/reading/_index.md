@@ -9,9 +9,9 @@ cjk: True
 ## The Elements of Typographic Style
 涵盖对字体排印发展史的概述，详细的排版样式指南和对许多经典字体的介绍。内容详尽，排版精致，文风诙谐，非常推荐阅读。作者对字体选择的观点比较保守。本书最新的主要修订版出版于 2012 年，但仍未给电脑桌面或网页排版安排篇幅。封面使用 Arno Pro，正文使用 Minion 作为主要衬线体，Scala Sans 作为无衬线体。
 
-# Donald Knuth
-## Digital Typography
-TeX 和 METAFONT 作者本人的文集，侧重这两个系统的早期开发过程和发展。涉及大量数学与编程，大多数内容与字体排印应用没有太多联系。封面使用 Adobe Garamond，正文基本均使用作者基于 Monotype Modern Extended 设计的 Computer Modern 及其变体。
+# Eric Gill
+## An Essay on Typography
+本文写于机械排字机成为主流、工业化印刷即将彻底取代手工业的时代，主要论点为这两者无法分出优劣，但也无法相互兼容，只能作为相互独立的两个行业存在。文中的许多论点不仅限于字体排印，且时至今日也不过时。全文语句较为冗长，文法老旧，阅读略吃力。于 1931 年和 1936 年出版的第一、二版均使用作者本人设计的 Joanna。
 
 # Alexander Lawson
 ## Anatomy of a Typeface
@@ -19,8 +19,20 @@ TeX 和 METAFONT 作者本人的文集，侧重这两个系统的早期开发过
 
 # Jerry Kelly & Misha Beletsky
 ## The Noblest Roman
-详细介绍 Bruce Rogers 设计的 Centaur。援引大量关于 Bruce Rogers 的资料，且附有本字体的所有版本的图例，更是包括一张由原版活字直接印刷的样本。正文和注释使用两种不同的 Centuar，前者出自 Jerry Kelly，后者出自大曲都市，两者似乎都未公开发售。标题使用 Monotype Centaur。
+详细介绍 Bruce Rogers 设计的 Centaur。援引大量关于 Bruce Rogers 的资料，且附有本字体的所有版本的图例，更是包括一张由原版活字直接印刷的样本。正文和注释使用两种不同的 Centuar，分别出自 Jerry Kelly 和大曲都市，两者似乎都未公开发售。标题使用 Monotype Centaur。
+
+# John Kane
+## A Type Primer
+在字体排印方面比较全面的指南，亦有涉及网格系统，适合入门。本文可大致视作添加图例、降低信息密度、增加关于平面设计的内容，且更顺应时代潮流的 Bringhurst。全文使用 Azkidenz-Grotesk。
 
 # Jost Hochuli
 ## Detail in Typography
 讲解许多微观字体排印中常用的做法，附有较多图例，内容较短。图例与相应文字分离的情况严重，阅读体验受此影响。封面和副标题使用 Futura，正文使用 Minion。
+
+# Donald Knuth
+## Digital Typography
+TeX 和 METAFONT 作者本人的文集，侧重这两个系统的早期开发过程和发展。涉及大量数学与编程，大多数内容与字体排印应用没有太多联系。封面使用 Adobe Garamond，正文基本均使用作者利用 METAFONT 基于 Monotype Modern Extended 设计的 Computer Modern，及其众多变体。
+
+# Eric Speikermann
+## Stop Stealing Sheep <span class="small-caps">&</span> Find Out How Type Works
+非常不推荐。作者知识面的深度和广度无可指摘，但本书正文排版风格几乎可用杀马特来形容，思维也过于跳脱，阅读体验极差。
