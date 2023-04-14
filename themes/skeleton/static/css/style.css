@@ -35,6 +35,7 @@ body {
   padding: 0;
   line-height: 1.5;
   font-family: 'Punctuations', 'ff-scala-sans-pro', 'source-han-sans-simplified-c', system-ui;
+  /* font-family: system-ui; */
   /* font-family: 'Noto Sans SC'; */
   font-variant-numeric: lining-nums;
   font-weight: 400;
