@@ -1,9 +1,8 @@
-/* self-host instead of using Adobe Fonts or Google Fonts, otherwise @font-face won't work */
+/* self host subsetted Source Han Sans */
 @font-face {
   font-family: "Punctuations";
-  /* ditch linux because not important */
-  src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
-  unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B, u+002F, u+005C;
+  src: url('/fonts/Punctuations.woff2') format('woff2');
+  /* unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B, u+002F, u+005C; */
 }
 
 @font-face {
@@ -35,12 +34,11 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-  /* manual font stack, somehow not compatible with iOS */
-  /* font-family: 'Fullwidth quotes', 'SF Pro', 'Segoe UI', 'PingFang SC', 'Microsoft Yahei', sans-serif; */
-  font-family: 'Punctuations', 'ff-scala-sans-pro', 'Source Han Sans SC', system-ui;
+  font-family: 'Punctuations', 'ff-scala-sans-pro', 'source-han-sans-simplified-c', system-ui;
   font-variant-numeric: lining-nums;
   font-weight: 400;
   font-size: 18px;
+  hyphens: auto;
 }
 
 header{
