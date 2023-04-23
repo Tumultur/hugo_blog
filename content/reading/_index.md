@@ -34,5 +34,5 @@ cjk: True
 TeX 和 METAFONT 作者本人的文集，侧重这两个系统的早期开发过程和发展。涉及大量数学与编程，大多数内容与字体排印应用没有太多联系。封面使用 Adobe Garamond，正文基本均使用作者利用 METAFONT 基于 Monotype Modern Extended 设计的 Computer Modern，及其众多变体。
 
 # Eric Speikermann
-## Stop Stealing Sheep <span class="small-caps">&</span> Find Out How Type Works
+## Stop Stealing Sheep <span style="font-style:normal">&</span> Find Out How Type Works
 非常不推荐。作者知识面的深度和广度无可指摘，但本书正文排版风格几乎可用杀马特来形容，思维也过于跳脱，阅读体验极差。
