@@ -25,6 +25,10 @@ cjk: True
 ## A Type Primer
 在字体排印方面比较全面的指南，亦有涉及网格系统，适合入门。本文可大致视作添加图例、降低信息密度、增加关于平面设计的内容，且更顺应时代潮流的 Bringhurst。全文使用 Azkidenz-Grotesk。
 
+# Ellen Lupton
+## Thinking With Type
+同样适合入门，比 A Type Primer 简洁、现代。全文使用 Scala。
+
 # Jost Hochuli
 ## Detail in Typography
 讲解许多微观字体排印中常用的做法，附有较多图例，内容较短。图例与相应文字分离的情况严重，阅读体验受此影响。封面和副标题使用 Futura，正文使用 Minion。
@@ -32,6 +36,10 @@ cjk: True
 # Donald Knuth
 ## Digital Typography
 TeX 和 METAFONT 作者本人的文集，侧重这两个系统的早期开发过程和发展。涉及大量数学与编程，大多数内容与字体排印应用没有太多联系。封面使用 Adobe Garamond，正文基本均使用作者利用 METAFONT 基于 Monotype Modern Extended 设计的 Computer Modern，及其众多变体。
+
+# Josef Müller-Brockmann
+## Grid Systems in Graphic Design
+被誉为网格系统经典著作，但内容已经完全过时。全文使用 Helvetica。
 
 # Eric Speikermann
 ## Stop Stealing Sheep <span style="font-style:normal">&</span> Find Out How Type Works
