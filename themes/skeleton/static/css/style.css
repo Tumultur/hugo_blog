@@ -37,8 +37,9 @@ body {
   font-family: 'Punctuations', 'ff-scala-sans-pro', 'Noto Sans SC', system-ui;
   /* font-family: system-ui; */
   /* font-family: 'Noto Sans SC'; */
-  font-variant-numeric: lining-nums;
+  font-variant-numeric: lining-nums tabular-nums;
   font-weight: 400;
+
   font-size: 18px;
   hyphens: auto;
 }
@@ -85,23 +86,6 @@ main{
   max-width: 80%;
   margin: auto;
   padding-bottom: 20px;
-}
-
-pre {
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-  /* border-left: 2px solid green; */
-  padding-left: 12px;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  /* background-color: #f0f0f0; */
-}
-
-code {
-  white-space : pre-wrap;
-  font-family: 'JetBrains Mono';
-  /* font-weight: 300; */
-  font-size: 16px;
 }
 
 .wf-loading {

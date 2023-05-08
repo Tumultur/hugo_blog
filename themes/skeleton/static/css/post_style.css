@@ -30,6 +30,47 @@ p{
   margin-bottom: 12px;
 }
 
+pre {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  /* border-left: 2px solid green; */
+  padding-left: 12px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 1.2;
+  /* background-color: #f0f0f0; */
+}
+
+code {
+  white-space : pre-wrap;
+  font-family: 'ff-nuvo-mono-web-pro', 'Noto Sans SC';
+  /* font-weight: 500; */
+  font-size: 16px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th {
+  font-weight: 400;
+  padding: 5px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid black;
+}
+
+tr:first-child td {
+  padding-top: 3px;
+}
+
+td {
+  width: 120px;
+  padding: 4px;
+}
+
 .post-date{
   text-indent: 0;
   margin-bottom: 12px;
