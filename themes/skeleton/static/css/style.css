@@ -91,3 +91,7 @@ main{
 .wf-loading {
   visibility: hidden;
 }
+
+.hzitalic {
+  font-style: italic;
+}

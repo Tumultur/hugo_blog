@@ -1,6 +1,6 @@
 baseURL = 'http://hugo.mergo.online/'
 languageCode = 'en-us'
-title = 'Tumultur’s Blog'
+title = 'Random Blog'
 theme = 'skeleton'
 
 
