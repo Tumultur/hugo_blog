@@ -10,9 +10,9 @@
     <main>
         <div class="module-title all-caps">Articles</div>
         {{ range $.Site.RegularPages.ByWeight }}
-        <div class="module-box">
+        <div class="article-module-box">
             <span class="module-numbering">{{.Weight}}</span>
-            <a href="{{.Permalink}}" class="module-hyperlink">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</a>
+            <a href="{{.Permalink}}" class="article-module-hyperlink">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</a>
             <div class="description-container">
                 <p class="module-description">{{.Params.description}}</p>
             </div>

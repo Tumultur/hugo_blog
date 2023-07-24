@@ -1,7 +1,7 @@
 ---
 title: "购买 Kindle 后的一些记录"
 date: 2023-02-03T00:00:00Z
-description: "消费主义万岁"
+description: "不专业消费者的看法"
 weight: 1
 cjk: true
 ---

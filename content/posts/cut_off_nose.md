@@ -1,7 +1,7 @@
 ---
 title: "削足适履，以及其他"
 date: 2023-04-22T00:00:00Z
-description: "取鱼而舍熊掌也"
+description: "取鱼而舍熊掌者也"
 weight: 4
 cjk: true
 ---

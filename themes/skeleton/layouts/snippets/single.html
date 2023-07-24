@@ -36,32 +36,8 @@
               });
             });
         </script> 
-        <script>
-            // spacing between CJK and latin/numerals in links
-            const adjustSpacingBetweenLinksAndText = () => {
-                const paragraphs = document.querySelectorAll('p');
-                paragraphs.forEach((paragraph) => {
-                    const nodes = Array.from(paragraph.childNodes);
-                    for (let i = 0; i < nodes.length; i++) {
-                        const node = nodes[i];
-                        if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'A') {
-                            const prevSibling = node.previousSibling;
-                            const nextSibling = node.nextSibling;
-        
-                            if (prevSibling && prevSibling.nodeType === Node.TEXT_NODE) {
-                                prevSibling.textContent = prevSibling.textContent.replace(/([\u4e00-\u9fa5])\s$/g, '$1\u2006');
-                            }
-        
-                            if (nextSibling && nextSibling.nodeType === Node.TEXT_NODE) {
-                                nextSibling.textContent = nextSibling.textContent.replace(/^\s([\u4e00-\u9fa5])/g, '\u2006$1');
-                            }
-                        }
-                    }
-                });
-            };
-        
-            adjustSpacingBetweenLinksAndText();
-        
+
+        <script>        
             // replace six-per-em space with ordinary space in copied text
             document.body.addEventListener('copy', function (e) {
                 const text = window.getSelection().toString().replace(/\u2006/g, ' ');
