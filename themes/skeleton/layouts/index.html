@@ -34,10 +34,17 @@
             <a href="/reading" class="module-hyperlink">Reading List</a>
             <span class="module-description">字体排版书单</span>
         </div>
+        <div class="module-box">
+            <span class="module-numbering text-figures">
+                3
+            </span>
+            <a href="/about" class="module-hyperlink">About</a>
+            <span class="module-description">个人信息</span>
+        </div>
         {{ range sort .Site.Data.links "order" "asc" }}
         <div class="module-box">
             <span class="module-numbering text-figures">
-                {{add .order 2}}
+                {{add .order 3}}
             </span>
             <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
             <span class="module-description">{{.description}}</span>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Random Blog</title>
+{{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/list_style.css">
+</head>
+<body>
+    {{ partial "header" . }}
+    <main>
+        <div class="module-title all-caps">Links</div>
+        {{ range sort .Site.Data.friends "order" "asc" }}
+        <div class="module-box">
+            <span class="module-numbering">
+                {{.order}}
+            </span>
+            <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
+            <span class="module-description">{{.description}}</span>
+        </div>
+        {{end}}
+    </main>
+</body>
+</html>

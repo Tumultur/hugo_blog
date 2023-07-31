@@ -48,11 +48,12 @@ cjk: True
 ### Thinking With Type
 <!-- 同样适合入门，比 A Type Primer 简洁、现代。全文使用 Scala。 -->
 
-<!-- 
-# Josef Müller-Brockmann
-## Grid Systems in Graphic Design
-被誉为网格系统经典著作，但内容已经完全过时。全文使用 Helvetica。
+# Not Recommended
 
-# Eric Speikermann
-## Stop Stealing Sheep <span style="font-style:normal">&</span> Find Out How Type Works
-非常不推荐。作者知识面的深度和广度无可指摘，但本书正文排版风格几乎可用杀马特来形容，思维也过于跳脱，阅读体验极差。 -->
+## Josef Müller-Brockmann (1981)
+### Grid Systems in Graphic Design
+<!-- 被誉为网格系统经典著作，但内容已经完全过时。全文使用 Helvetica。 -->
+
+## Erik Speikermann (1993)
+### Stop Stealing Sheep <span style="font-variant-caps: all-small-caps">&</span> Find Out How Type Works
+<!-- 非常不推荐。作者知识面的深度和广度无可指摘，但本书正文排版风格几乎可用杀马特来形容，思维也过于跳脱，阅读体验极差。 -->

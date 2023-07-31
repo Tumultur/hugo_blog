@@ -26,4 +26,24 @@ a{
   color: #888888;
   margin: 0;
 }
-  
+
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  font-variant-numeric: oldstyle-nums;
+}
+
+h3{
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+  text-indent: 1em;
+  font-style: italic;
+}
