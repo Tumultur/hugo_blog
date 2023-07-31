@@ -10,13 +10,19 @@ a{
   color: #686868;
 }
 
-h1{
+h1 {
   font-size: 20px;
-  font-weight: 400;
-  margin-bottom: 10px;
 }
 
 h2{
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  font-variant-numeric: oldstyle-nums;
+}
+
+h3{
   font-size: 20px;
   font-weight: 400;
   margin: 0;
