@@ -29,6 +29,6 @@
 
         <!-- Th ligature -->
         {{$ligature_fixed := ($mojikumi_fixed2 | replaceRE "Th" "<liga>Th</liga>" | safeHTML)}}
-        {{$mojikumi_fixed2}}
+        {{.Content }}
 </body>
 </html>

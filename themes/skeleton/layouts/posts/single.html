@@ -29,8 +29,8 @@
         {{$cjk_spacing_fixed_new1 := (.Content | replaceRE "(\\p{Han}) " "$1 " | safeHTML)}}
         {{$cjk_spacing_fixed_new2 := ($cjk_spacing_fixed_new1 | replaceRE " (\\p{Han})" " $1" | safeHTML)}}
         <!-- Multiple punctuation spacing -->
-        {{$mojikumi_fixed1 := ($cjk_spacing_fixed_new2 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
-        {{$mojikumi_fixed2 := ($mojikumi_fixed1 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2" | safeHTML)}}
+        {{$mojikumi_fixed1 := ($cjk_spacing_fixed_new2 | replaceRE "([。；，：、「」『』（）《》〈〉 ])([。；，：、「」『』（）《》〈〉 ])([。；，：、「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
+        {{$mojikumi_fixed2 := ($mojikumi_fixed1 | replaceRE "([。；，：、「」『』（）《》〈〉 ])([。；，：、「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2" | safeHTML)}}
 
         <!-- Interpunct spacing -->
         {{$mojikumi_fixed3 := ($mojikumi_fixed2 | replaceRE "·" "<interpunct>·</interpunct>" | safeHTML)}}

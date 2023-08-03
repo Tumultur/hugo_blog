@@ -34,7 +34,8 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-  font-family: 'Punctuations', 'ff-scala-sans-pro', 'Noto Sans SC', system-ui;
+  /* font-family: 'Punctuations', 'ff-scala-sans-pro', 'Noto Sans SC', system-ui; */
+  font-family: 'ff-scala-sans-pro', 'Noto Sans SC', system-ui;
   /* font-family: system-ui; */
   /* font-family: 'Noto Sans SC'; */
   font-variant-numeric: lining-nums tabular-nums;
