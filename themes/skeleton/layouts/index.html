@@ -41,7 +41,14 @@
             <a href="/about" class="module-hyperlink">About</a>
             <span class="module-description">个人信息</span>
         </div>
-        {{ range sort .Site.Data.links "order" "asc" }}
+        <div class="module-box">
+            <span class="module-numbering text-figures">
+                4
+            </span>
+            <a href="/sites" class="module-hyperlink">Useful Sites</a>
+            <span class="module-description">有用或有趣的网站</span>
+        </div>
+        <!-- {{ range sort .Site.Data.links "order" "asc" }}
         <div class="module-box">
             <span class="module-numbering text-figures">
                 {{add .order 3}}
@@ -49,7 +56,7 @@
             <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
             <span class="module-description">{{.description}}</span>
         </div>
-        {{end}}
+        {{end}} -->
         <!-- <div style="height: 30px;"></div>
         <div class="module-title all-caps">Links</div>
         {{ range sort .Site.Data.friends "order" "asc" }}

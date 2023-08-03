@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/list_style.css">
+<!-- <style>div.module-box a{color: #888888;}</style> -->
+<body>
+    {{ partial "header" . }}
+    <main>
+        <!-- <div class="module-title all-caps">Useful Sites</div> -->
+        {{ range sort .Site.Data.links "order" "asc" }}
+        <div class="module-box">
+            <span class="module-numbering text-figures">
+                {{.order}}
+            </span>
+            <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
+            <span class="module-description">{{.description}}</span>
+        </div>
+        {{end}}
+    </main>
+</body>
+</html>
