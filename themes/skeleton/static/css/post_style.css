@@ -10,28 +10,21 @@ a{
   color: #686868;
 }
 
-h1 {
-  font-size: 20px;
-  font-weight: 400;
-}
-
 p{
   /* text-indent: 2em; */
   margin: 0px;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 pre {
   border-top: 1px solid black;
   border-bottom: 1px solid black;
-  /* border-left: 2px solid green; */
   padding-left: 14px;
   padding-top: 3px;
   padding-bottom: 3px;
   margin-top: 0px;
   margin-bottom: 0px;
   line-height: 1.2;
-  /* background-color: #f0f0f0; */
 }
 
 code {
@@ -65,25 +58,10 @@ td {
 
 .post-date{
   text-indent: 0;
-  margin-bottom: 14px;
+  margin-bottom: 10px;
 }
 
 .post-title{
   text-indent: 0;
   margin: 0;
-}
-
-interpunct {
-  margin-left: 5px;
-  margin-right: 5px;
-}
-
-mojikumi {
-  margin-right: -10px;
-}
-
-.module-numbering{
-  position: absolute;
-  width: 20px;
-  margin-left: -20px;
 }

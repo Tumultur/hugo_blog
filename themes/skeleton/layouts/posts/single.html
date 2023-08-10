@@ -15,7 +15,7 @@
 <body>
     {{ partial "header" . }}
     <main>
-        <p class="post-title">{{.Title}}</p>
+        <p class="post-title">{{.Title | safeHTML}}</p>
         <p class="post-date text-figures">{{.PublishDate.Format "2006-01-02"}}</p>
         {{ if eq .Params.cjk false}}
         {{$abbr_fixed1 := (.Content | replaceRE "([A-Z]{2,})" "<abbr class=\"small-caps\">$1</abbr>" | safeHTML)}}

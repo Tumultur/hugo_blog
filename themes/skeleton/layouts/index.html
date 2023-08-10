@@ -13,9 +13,7 @@
         <div class="article-module-box">
             <span class="module-numbering">{{.Weight}}</span>
             <a href="{{.Permalink}}" class="article-module-hyperlink">{{.Title | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML}}</a>
-            <div class="description-container">
-                <p class="module-description">{{.Params.description}}</p>
-            </div>
+            <p class="module-description">{{.Params.description}}</p>
         </div>
         {{end}}
         <div style="height: 30px;"></div>
@@ -48,27 +46,6 @@
             <a href="/sites" class="module-hyperlink">Useful Sites</a>
             <span class="module-description">有用或有趣的网站</span>
         </div>
-        <!-- {{ range sort .Site.Data.links "order" "asc" }}
-        <div class="module-box">
-            <span class="module-numbering text-figures">
-                {{add .order 3}}
-            </span>
-            <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
-            <span class="module-description">{{.description}}</span>
-        </div>
-        {{end}} -->
-        <!-- <div style="height: 30px;"></div>
-        <div class="module-title all-caps">Links</div>
-        {{ range sort .Site.Data.friends "order" "asc" }}
-        <div class="module-box">
-            <span class="module-numbering">
-                {{.order}}
-            </span>
-            <a href="{{.link}}"  class="module-hyperlink" target="_blank">{{.name}}</a>
-            <span class="module-description">{{.description}}</span>
-        </div>
-        {{end}} -->
-        {{.Content}}
     </main>
 </body>
 </html>

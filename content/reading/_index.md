@@ -5,7 +5,7 @@ layout: "single"
 cjk: True
 ---
 
-# THEORY
+# Theory
 
 ## Gill, Eric (1931)
 ### An Essay on Typography
@@ -30,7 +30,7 @@ cjk: True
 ## Unger, Gerard (2018)
 ### Theory of Type Design
 
-# HISTORY
+# History
 
 ## Lawson, Alexander (1990)
 ### Anatomy of a Typeface
@@ -47,7 +47,7 @@ cjk: True
 ### Adrian Frutiger – Schriften: Das Gesamtwerk
 ### <span style="font-style: normal">(</span>Adrian Frutiger – Typefaces. The Complete Works<span style="font-style: normal">)</span>
 
-# MANUAL
+# Manual
 
 ## Bringhurst, Robert (1992)
 ### The Elements of Typographic Style
@@ -66,7 +66,7 @@ cjk: True
 ### Thinking With Type
 <!-- 同样适合入门，比 A Type Primer 简洁、现代。全文使用 Scala。 -->
 
-# NOT RECOMMENDED
+# Not recommended
 
 ## Speikermann, Erik (1993)
 ### Stop Stealing Sheep <span style="font-variant-caps: all-small-caps">&</span> Find Out How Type Works
