@@ -6,7 +6,7 @@ weight: 6
 cjk: true
 ---
 
-<script>document.title = "hz-program"</script>
+<script>document.title = "hz-program 简析"</script>
 
 众所周知，InDesign 可以拉伸或压缩字符的宽度，作为两边对齐的手段之一。这种做法理论上可以减少断字，并使词距更加均衡。古腾堡的42行圣经也采用类似的做法，
 

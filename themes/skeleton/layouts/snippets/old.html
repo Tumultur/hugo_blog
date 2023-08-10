@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head" . }}
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/post_style.css">
+<style>h1 {text-transform: uppercase; letter-spacing: .04em}</style>
+{{ if eq .Params.cjk true}}
+<script src="/js/spacing.js"></script> 
+{{ end }}
+</head>
+<body>
+    {{ partial "header" . }}
+    <main>
+        <!-- Spacing between CJK and Latin characters -->
+        {{$cjk_spacing_fixed1 := (.Content | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
+        {{$cjk_spacing_fixed2 := ($cjk_spacing_fixed1 | replaceRE "(\\p{Han}) (<a.*</a>) (\\p{Han})" "$1 $2 $3" | safeHTML)}}
+        {{$cjk_spacing_fixed3 := ($cjk_spacing_fixed2 | replaceRE "(\\p{Han}) ([a-zA-Z0-9 ]+)([。、，；”])" "$1 $2$3" | safeHTML)}}
+        {{$cjk_spacing_fixed4 := ($cjk_spacing_fixed3 | replaceRE "(\\p{Han}) (<a.*</a>)([。、，；”])" "$1 $2$3" | safeHTML)}}
+        {{$cjk_spacing_fixed5 := ($cjk_spacing_fixed4 | replaceRE "(<a.*>.*) (.*</a>)" "$1&nbsp;$2" | safeHTML)}}
+        {{$cjk_spacing_fixed_new1 := (.Content | replaceRE "(\\p{Han}) " "$1 " | safeHTML)}}
+        {{$cjk_spacing_fixed_new2 := ($cjk_spacing_fixed_new1 | replaceRE " (\\p{Han})" " $1" | safeHTML)}}
+        <!-- Multiple punctuation spacing -->
+        {{$mojikumi_fixed1 := (.Content | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3" | safeHTML)}}
+        {{$mojikumi_fixed2 := ($mojikumi_fixed1 | replaceRE "([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])" "$1<mojikumi></mojikumi>$2" | safeHTML)}}
+
+        <!-- Interpunct spacing -->
+        {{$mojikumi_fixed3 := ($mojikumi_fixed2 | replaceRE "·" "<interpunct>·</interpunct>" | safeHTML)}}
+
+        <!-- Th ligature -->
+        {{$ligature_fixed := ($mojikumi_fixed2 | replaceRE "Th" "<liga>Th</liga>" | safeHTML)}}
+        {{.Content}}
+        
+        <!-- <script>
+            // spacing between CJK and latin/numerals
+            document.addEventListener('DOMContentLoaded', function () {
+              var textNodes = document.querySelectorAll('p');
+              textNodes.forEach(function (node) {
+                node.innerHTML = node.innerHTML.replace(/([\u4e00-\u9fa5]) (.)/g, '$1\u2006$2').replace(/(.) ([\u4e00-\u9fa5])/g, '$1\u2006$2');
+              });
+            });
+        </script>  -->
+        
+        <!-- <script>
+            // spacings
+            document.addEventListener('DOMContentLoaded', function () {
+              var textNodes = document.querySelectorAll('p');
+              textNodes.forEach(function (node) {
+                node.innerHTML = node.innerHTML.replace(/([\u4e00-\u9fa5]) ([^\u4e00-\u9fa5])/g, '$1\u2006$2').replace(/([^\u4e00-\u9fa5]) ([\u4e00-\u9fa5])/g, '$1\u2006$2').replace(/([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])/g, '$1<mojikumi></mojikumi>$2<mojikumi></mojikumi>$3').replace(/([。；，：、“”‘’「」『』（）《》〈〉 ])([。；，：、“”‘’「」『』（）《》〈〉 ])/g, '$1<mojikumi></mojikumi>$2').replace(/·/g, '<interpunct>·</interpunct>');
+              });
+            });
+        </script>  -->
+
+        <!-- <script>        
+            // remove six-per-en space in copied text
+            document.body.addEventListener('copy', function (e) {
+                const text = window.getSelection().toString().replace(/\u2006/g, '');
+                e.clipboardData.setData('text/plain', text);
+                e.preventDefault();
+            });
+        </script>         -->
+    </main>
+</body>
+</html>

@@ -5,7 +5,7 @@ layout: "single"
 cjk: True
 ---
 
-# Theory
+# THEORY
 
 ## Gill, Eric (1931)
 ### An Essay on Typography
@@ -19,6 +19,10 @@ cjk: True
 ### De Streek: Theorie van het schrift
 ### <span style="font-style: normal">(</span>The Stroke: Theory of Writing<span style="font-style: normal">)</span>
 
+## Smeijers, Fred (1997)
+### Counterpunch: Making Type in the Sixteenth Century,
+### Designing Typefaces Now
+
 ## Tschichold, Jan (1928)
 ### Die Neue Typographie
 ### <span style="font-style: normal">(</span>The New Typography<span style="font-style: normal">)</span>
@@ -26,13 +30,13 @@ cjk: True
 ## Unger, Gerard (2018)
 ### Theory of Type Design
 
-# History
+# HISTORY
 
 ## Lawson, Alexander (1990)
 ### Anatomy of a Typeface
 <!-- 挑选了一些较经典和在 20 世纪较流行的字体和字体类别，对其设计者和历史渊源进行概述。本书出版于 1990 年，因此未能囊括这些字体的许多数字化版本。封面使用 Castellar，正文使用 Galliard。 -->
 
-## Carter, Harry
+## Carter, Harry (1969)
 ### A View of Early Typography Up to About 1600
 
 ## Kelly, Jerry & Beletsky, Misha (2016)
@@ -43,7 +47,7 @@ cjk: True
 ### Adrian Frutiger – Schriften: Das Gesamtwerk
 ### <span style="font-style: normal">(</span>Adrian Frutiger – Typefaces. The Complete Works<span style="font-style: normal">)</span>
 
-# Manual
+# MANUAL
 
 ## Bringhurst, Robert (1992)
 ### The Elements of Typographic Style
@@ -62,7 +66,7 @@ cjk: True
 ### Thinking With Type
 <!-- 同样适合入门，比 A Type Primer 简洁、现代。全文使用 Scala。 -->
 
-# Not Recommended
+# NOT RECOMMENDED
 
 ## Speikermann, Erik (1993)
 ### Stop Stealing Sheep <span style="font-variant-caps: all-small-caps">&</span> Find Out How Type Works

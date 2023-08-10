@@ -23,7 +23,7 @@ Applications/应用名/Presets/applicationpreferences/indesign/applicationprefer
 
 <div style="margin-bottom:6pt"></div>
 
-在其中找到 Feature Set Locale Setting 一项，将其从 256 改为 257，十六进制则是 100 改为 101。本方法来自 [Dr Ken Lunde](https://ken-lunde.medium.com/adobe-indesign-tips-japanese-cjk-functionality-english-ui-redux-539528e295c6)。
+在其中找到 Feature Set Locale Setting 一项，将其从 256 改为 257，十六AAA进制则是 100 改为 101。本方法来自 [Dr Ken Lunde](https://ken-lunde.medium.com/adobe-indesign-tips-japanese-cjk-functionality-english-ui-redux-539528e295c6)。
 
 Adobe Fonts 在 Windows 和 macOS 中分别将字体文件存储于本地这两个位置：
 <div style="margin-top:-6pt"></div>
@@ -49,9 +49,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemL
 ```
 
 <div style="margin-bottom:6pt"></div>
+
 然后将 MSYH.TTC,Microsoft YaHei UI,128,96 和 MSYH.TTC,Microsoft YaHei UI 两行移至最上方即可。想必该问题在其他语言的系统中也会出现。
 
 Windows LTSC 的许多不明问题（如开机时 wsappx 进程占用 CPU，以及新版微软输入法不显示选字框）都可以通过手动安装 [C++ 运行时框架包](https://learn.microsoft.com/en-US/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge)，或使用[脚本](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)直接安装 Microsoft Store 解决。
 
-HHKB 有线版无法直接使用 Keymap Tools 修改键位，但只需在软件目录中 KeyboardDatalist.json 这个文件里找到或添加有线键盘的型号（如黑色 Professional Classic 为 PD-KB401BN），然后将「isKeymapChangeable」这一键值改为 True 即可。
-
+HHKB 有线版无法直接使用 Keymap Tools 修改键位，但只需在软·件目录中 KeyboardDatalist.json 这个文件里找到或添加有线键盘的型号（如黑色 Professional Classic 为 PD-KB401BN），然后将「isKeymapChangeable」这一键值改为 True 即可。
