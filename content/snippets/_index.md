@@ -7,7 +7,7 @@ cjk: true
 
 # Typography
 
-对于中英文混排，常见的做法是直接插入空格。我认为六分之一空格（U+2006）较美观，较少打扰文字流。不过这并未考虑到实际应用时产生的各种问题，只是突发奇想的观点；如果是本页面第一段那种混排程度，不论多少间距，效果都不会非常理想。本博客也使用六分之一空格作为中英文之间的间距。
+对于中英文混排，常见的做法是直接插入空格。我认为六分之一空格（U+2006）较美观，较少打扰文字流。不过这并未考虑到实际应用时产生的各种问题，只是突发奇想的观点；如果混排程度太高，不论多少间距，效果都不会非常理想。本博客也使用六分之一空格作为中英文之间的间距。
 
 英文正文排版应酌情使用小型大写字母和小写数字，以配合拉丁字母的高度。例如：「The <span class="small-caps">USA</span> declared independence in <span class="text-figures">1776</span>.」中文则更类似于全大写拉丁字母，因此这样做只会起到负面作用。导致这种错误的一个原因是将 Georgia 或本博客使用的 Scala Sans 等默认采用小写数字的字体设为英文字体。
 
@@ -54,4 +54,4 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemL
 
 Windows LTSC 的许多不明问题（如开机时 wsappx 进程占用 CPU，以及新版微软输入法不显示选字框）都可以通过手动安装 [C++ 运行时框架包](https://learn.microsoft.com/en-US/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge)，或使用[脚本](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)直接安装 Microsoft Store 解决。
 
-HHKB 有线版无法直接使用 Keymap Tools 修改键位，但只需在软·件目录中 KeyboardDatalist.json 这个文件里找到或添加有线键盘的型号（如黑色 Professional Classic 为 PD-KB401BN），然后将「isKeymapChangeable」这一键值改为 True 即可。
+HHKB 有线版无法直接使用 Keymap Tools 修改键位，但只需在软件目录中 KeyboardDatalist.json 这个文件里找到或添加有线键盘的型号（如黑色 Professional Classic 为 PD-KB401BN），然后将「isKeymapChangeable」这一键值改为 True 即可。
