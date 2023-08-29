@@ -1,0 +1,130 @@
+/* self host subsetted Source Han Sans */
+@font-face {
+  font-family: "Punctuations";
+  src: url('/fonts/Punctuations.otf') format('opentype');
+  /* unicode-range: U+2018-2019, U+201C-201D, U+00B7, U+002B, u+002F, u+005C, u+2014; */
+}
+
+@font-face {
+  font-family: "Source Han Sans SC";
+  src: url('/fonts/SourceHanSansSC-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url('/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+.text-figures {
+  font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+/* beware of mechanically scaled small caps */
+.small-caps {
+  font-variant-caps: all-small-caps;
+  letter-spacing: .02em;
+}
+
+.all-caps {
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  /* font-family: 'Punctuations', 'ff-scala-sans-pro', 'Noto Sans SC', system-ui; */
+  font-family: 'ff-scala-sans-pro', 'Noto Sans SC', system-ui;
+  /* font-family: system-ui; */
+  /* font-family: 'Noto Sans SC'; */
+  font-variant-numeric: lining-nums tabular-nums;
+  font-weight: 400;
+  font-size: 20px;
+  hyphens: auto;
+}
+
+header{
+  width: 600px;
+  min-width: 45%;
+  max-width: 80%;
+  margin: auto;
+  padding-top: 20px;
+}
+.title-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-divider{
+  height:1px;
+  border:none;
+  background:black;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.header-title{
+  font-family: 'ff-scala-sans-pro', system-ui;
+  color: black;
+}
+.header-title:hover{
+  text-decoration: none;
+}
+.header-link{
+  font-family: 'ff-scala-sans-pro', system-ui;
+  float: right;
+  color: black;
+  margin-left: 16px;
+}
+.header-link:hover{
+  text-decoration: none;
+}
+
+main{
+  width: 600px;
+  min-width: 45%;
+  max-width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.wf-loading {
+  visibility: hidden;
+}
+
+.hzitalic {
+  font-style: italic;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  font-variant-numeric: oldstyle-nums;
+}
+
+h3{
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+  text-indent: 1em;
+  font-style: italic;
+}
+
+interpunct {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+mojikumi {
+  margin-right: -10px;
+}

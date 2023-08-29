@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    
+    <title>中西文混排间隙迷思</title>
+    
+    <script src="//use.typekit.net/lve8pdl.js"></script>
+    <script>try{Typekit.load({kitId: 'lve8pdl', async: true});}catch(e){}</script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap" rel="stylesheet">
+    <script src="/js/integer_scale.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/post_style.css">
+
+<script src="/js/spacing.js"></script>
+<style>
+.post-date {
+    font-variant-numeric: tabular-nums lining-nums !important;
+}
+</style>
+
+</head>
+<body>
+    <header>
+    <div class="title-wrapper">
+        <a class="header-title all-caps" href="http://hugo.mergo.online/">Random Blog</a>
+        
+    </div>
+    <hr class="header-divider">
+</header>
+    <main>
+        <p class="post-title">中西文混排间隙迷思</p>
+        <p class="post-date text-figures">2023-05-08</p>
+        
+        <p>本文不考虑竖排的情况，也没有讨论假名和谚文。我主张尽量使用术语既有的译名，而避免使用英文，为了避免歧义，下为文中出现术语的中英对应表。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">English</th>
+<th style="text-align:center">中文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Saccade</td>
+<td style="text-align:center">眼跳</td>
+</tr>
+<tr>
+<td style="text-align:center">Colour</td>
+<td style="text-align:center">灰度</td>
+</tr>
+<tr>
+<td style="text-align:center">Counter</td>
+<td style="text-align:center">字怀</td>
+</tr>
+<tr>
+<td style="text-align:center">Side bearing</td>
+<td style="text-align:center">字距</td>
+</tr>
+<tr>
+<td style="text-align:center">Ascender</td>
+<td style="text-align:center">升部</td>
+</tr>
+<tr>
+<td style="text-align:center">Descender</td>
+<td style="text-align:center">降部</td>
+</tr>
+<tr>
+<td style="text-align:center">x-height</td>
+<td style="text-align:center">x 字高</td>
+</tr>
+<tr>
+<td style="text-align:center">Baseline</td>
+<td style="text-align:center">基线</td>
+</tr>
+</tbody>
+</table>
+<p>汉字和宽度是固定的，排列是连续的。在注视/眼跳的过程中，读者会首先将注视点附近的汉字识别和切分成词语，以词语作为单位进行阅读。由于空格的存在，这个过程对于西文没有必要。拉丁字母和汉字之间的各种区别可以代替空格，作为词与词之间的间隔。如果只是为了使拉丁字母单词和汉字更容易区分，那么人为添加空隙其实完全多余。</p>
+<!-- 设计拉丁字母时，一般会考虑排出灰度均匀的文段，因此尤其注意字怀和字距之间的关系。Adrian Frutiger 认为对于正文衬线字体来说这两者应该占相同的空间，而无衬线字体中前者应该略大于后者。但这对于汉字来说是基本无法达成的。举例来说，“囊襄表衣”或“圖圄固回口”这样结构类似，而笔画数量差距极大的汉字，只能对笔画粗细做出细微调整，或稍微缩放字面框，但这不足以完全平衡文段整体的灰度。 -->
+<p>比起笔画，字怀的形状和大小是拉丁字母更加重要的特征。平衡字怀和字距的宽度，从而排出灰度均匀的文段，是设计拉丁正文字体时重要的考虑之一。但字怀对于汉字不占有同等的重要性。汉字的笔画数量差距极大，如「囊襄表衣」或「圖圄固回口」这样结构类似的汉字。即使有对笔画粗细和长度做出细微调整，或略微缩放字面框，仍无法平衡文段整体的灰度。这又否决了为平衡灰度作为添加间隙理由的可能性。</p>
+<p>书写汉字时，一般会从靠近字面框最左或最上的笔画起笔，在右下收笔。多数汉字的高度占到整个字框的大半或全部，且垂直方向灰度分布比较均匀。大写拉丁字母与其类似，但没有字面框的概念，灰度同样不集中在某个高度。但小写拉丁字母的情况则全然不同。小写字母的起点则在 x 字高附近，笔画主要集中在基线和 x 字高之间，而升降部则作为偶尔出现的延伸，且其结构简单，笔画稀疏。只考虑正文的情况下，大写字母的出现频率远远小于小写字母，因此对于西文来说，x 字高与基线之间的部分是绝对的主体。汉字字体的西文部分会在其既有字体基础上略微扩大字符，在一定程度上也是出于「抬高」x 字高的考量。</p>
+<p>汉字和拉丁字母最大的差异就在于此：前者基于字框顶部和底部减去高度，后者基于 x 字高和基线增加高度。我认为，在两者之间添加间隙最主要的原因，就是为了在两种垂直灰度分布迥然不同的书写系统之间提供缓冲空间，减少来回切换带来的冲击；并非是为了提升阅读速度，而是为了改善阅读体验。与之相对的，大写字母和数字的高度与汉字类似，区别只在于影响较小的灰度和宽度。</p>
+<p>综上，中西文混排时，可以试着采用如下规则添加间隙：</p>
+<p><span class="module-numbering">1.</span>
+如果拉丁字母有配合汉字的设计（如在原有基础上微调了字号），则空隙的必要性降低；如果拉丁字母来自普通的拉丁字体，或没有特意适应汉字，则更应该添加空隙。同时，不论空隙添加与否，都应该尽量选择字重匹配的汉字和拉丁字体。</p>
+<p><span class="module-numbering">2.</span>
+较短或大写字母为主的字符串可以考虑不添加空隙，因为这样的字符串与作为主体的汉字比较类似。或追求风格统一，即尽可能全部添加空隙或全部不添加。</p>
+<p>比如，如果缩写和普通单词、词组数量大致相当，或后者多于前者，则应该全部添加空隙。但也存在变通的可能性：举例来说，如果前者占绝大多数，可以只为后者添加空隙。拉丁字母或数字多于中文的情况下，则应该当作西文文本处理，全部添加普通空格。</p>
+<p><span class="module-numbering">3.</span>
+比起大写字母，小写字母或包含空格的字符串更需要空隙；拉丁字母字符串越长，空隙越有必要。大写数字，尤其是等宽数字，无需间隙。</p>
+<p><span class="module-numbering">4.</span>
+既然添加空隙的目的不是为了适应西文排版规则，那么作为空隙的字符就不一定是U+0020，而可以使用更加美观的U+2006、U+2009或U+200A。需要注意的是，不论使用什么字符，都不是理想的解决方案；这个问题应该由排版引擎本身处理，如 InDesign 和苹果操作系统的一些应用就可以自动在中西文之间插入空隙，CSS的 text-autospace 属性应该也能实现类似的效果，只是目前还未被主流浏览器支持。同时，在不引起歧义的情况下，也应尽量将西文术语替换成既有的中文译名，避免混排的情况，从根本上消灭问题。</p>
+
+        
+    </main>
+</body>
+</html>

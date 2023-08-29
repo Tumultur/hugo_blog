@@ -1,0 +1,25 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+.module-title {
+  margin-bottom: 0px;
+}
+.module-box{
+  margin-bottom: 0px;
+}
+
+.module-numbering{
+  position: absolute;
+  width: 20px;
+  margin-left: -24px;
+}
+.module-hyperlink {
+  display: inline-block;
+  width: 100%;
+}
+.module-description{
+  font-size: 20px;
+  color: #888888;
+  margin: 0;
+}
