@@ -6,7 +6,7 @@ weight: 8
 cjk: true
 ---
 
-「Anyone who would letterspace lower case would steal sheep.」相传这句名言出自 Fredric Goudy。有观点认为原句针对的并非小写字母而是哥特体，亦有人称 steal 在原句中是更加粗俗的 shag（感兴趣的读者可以阅读[本文](https://www.paulshawletterdesign.com/2017/01/typophillics-no-1/)）。这些都不重要。重要的是，「不能改变小写字母的字符间距（下文简称『字距』」）已经成为无数不容置疑的排版教条之一。至于字偶间距，就更不用说——课本上明明写着，字偶是设计师精心调整的结果，怎么能随便修改呢？
+「Anyone who would letterspace lower case would steal sheep.」相传这句名言出自 Fredric Goudy。有观点认为原句针对的并非小写字母而是哥特体，亦有人称 steal 在原句中是更加粗俗的 shag（感兴趣的读者可以阅读[本文](https://www.paulshawletterdesign.com/2017/01/typophillics-no-1/)）。这些都不重要。重要的是，「不能改变小写字母的字符间距（下文简称『字距』）」已经成为无数不容置疑的排版教条之一。至于字偶间距，就更不用说——课本上明明写着，字偶是设计师精心调整的结果，怎么能随便修改呢？
 
 支持这种规则的原因有很多，最明显的原因是美观方面的考量：如 Arrighi、Gilliard 和 Trinité 等具有强烈手写特征的斜体就非常不适合添加字距，因为这样就破坏了字母之间紧密的联系。而在「可读性」方面，有理论称人眼辨认词汇靠的是词汇的「形状」，而改变字距会导致形状难以辨认，从而阻碍阅读。
 
