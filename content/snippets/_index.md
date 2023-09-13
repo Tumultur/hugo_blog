@@ -23,7 +23,7 @@ Applications/应用名/Presets/applicationpreferences/indesign/applicationprefer
 
 <div style="margin-bottom:6pt"></div>
 
-在其中找到 Feature Set Locale Setting 一项，将其从 256 改为 257，十六AAA进制则是 100 改为 101。本方法来自 [Dr Ken Lunde](https://ken-lunde.medium.com/adobe-indesign-tips-japanese-cjk-functionality-english-ui-redux-539528e295c6)。
+在其中找到 Feature Set Locale Setting 一项，将其从 256 改为 257，十六进制则是 100 改为 101。本方法来自 [Dr Ken Lunde](https://ken-lunde.medium.com/adobe-indesign-tips-japanese-cjk-functionality-english-ui-redux-539528e295c6)。
 
 Adobe Fonts 在 Windows 和 macOS 中分别将字体文件存储于本地这两个位置：
 <div style="margin-top:-6pt"></div>
